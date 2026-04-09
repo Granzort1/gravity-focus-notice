@@ -1,22 +1,26 @@
 ---
-title: 2026-04-08 Update Notice
+title: 2026-04-10 Update Notice
 ---
 
-# 2026-04-08 Update Notice
+# 2026-04-10 Update Notice
 
 Hello, I'm the app developer.
 
-In this update, I've fixed a data saving issue with the diary feature and added a new button for sending feedback.
+In this update, I've improved how Brain Dump organizes tasks, updated the schedule button, and redesigned the first-launch experience.
 
 ## Update Details
 
-1) Diary saving issue fixed
-- Fixed a problem where diary entries were not saved after tapping the check button.
-- Also resolved an issue where diary entries would disappear after syncing.
+1) Better task sorting in Brain Dump
+- When you write tasks separated by commas or line breaks, they are now automatically organized into a task list.
+- Write down your to-dos freely, pick the ones for today, and turn them into tasks.
 
-2) Send Feedback button added
-- A mail icon has been added to the top of the Settings menu.
-- You can now send feedback or suggestions to the developer with just one tap, anytime.
+2) Schedule button updated
+- The button for adding scheduled events has a new look.
+- You can now add scheduled events from the Execution menu as well, so you can add them from both the Plan and Execution screens.
+
+3) First-launch screen improved
+- The introductory screen for new users has been improved.
+- Instead of starting in guest mode automatically, you can now choose between guest mode and Google sign-in when you first open the app.
 
 ## We'd love to hear from you
 
