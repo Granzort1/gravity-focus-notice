@@ -1,26 +1,29 @@
 ---
-title: 2026-04-10 Update Notice
+title: 2026-04-13 Update Notice
 ---
 
-# 2026-04-10 Update Notice
+# 2026-04-13 Update Notice
 
 Hello, I'm the app developer.
 
-In this update, I've improved how Brain Dump organizes tasks, updated the schedule button, and redesigned the first-launch experience.
+In this update, I've improved the large widget design and made the date display in the journal list cleaner.
 
 ## Update Details
 
-1) Better task sorting in Brain Dump
-- When you write tasks separated by commas or line breaks, they are now automatically organized into a task list.
-- Write down your to-dos freely, pick the ones for today, and turn them into tasks.
+1) Large widget design improved
+- The home screen large widget has been redesigned to look better.
 
-2) Schedule button updated
-- The button for adding scheduled events has a new look.
-- You can now add scheduled events from the Execution menu as well, so you can add them from both the Plan and Execution screens.
+2) Journal list date display improved
+- Dates on each journal entry are now displayed more cleanly.
 
-3) First-launch screen improved
-- The introductory screen for new users has been improved.
-- Instead of starting in guest mode automatically, you can now choose between guest mode and Google sign-in when you first open the app.
+3) Plan menu next-day guidance
+- After the configured time (default 9 PM), opening the plan menu automatically shows tomorrow's plan with a helpful notice.
+- If today's plan still has remaining tasks, a notice appears letting you know you can start planning for tomorrow.
+- Tap the notice to freely switch between today's and tomorrow's plan.
+
+4) Configurable switch-to-tomorrow time
+- In Settings, you can change "Switch to tomorrow" to any hour you prefer (5 PM to 11 PM).
+- Adjust it to match your daily routine so tomorrow's plan appears at just the right time.
 
 ## We'd love to hear from you
 
