@@ -1,8 +1,10 @@
 ---
-title: 2026-04-22 Update Notice
+title: Update Notices
 ---
 
-# 2026-04-22 Update Notice
+# Update Notices
+
+## 2026-04-22 Update Notice
 
 Hello, I'm the app developer.
 
@@ -43,5 +45,27 @@ In this update, the Plan menu has been completely redesigned as a daily time-blo
 ## We'd love to hear from you
 
 If there's anything inconvenient about the new Plan menu, or if you have ideas for improvement, please let us know. You can use the mail icon at the top of the Settings menu or the "Send Feedback" option at the bottom. Every piece of feedback helps make the app better.
+
+Thank you.
+
+---
+
+## 2026-04-23 Hotfix Notice
+
+Hello, I'm the app developer.
+
+This hotfix addresses the following two issues.
+
+## Fixes
+
+1) Fixed Android home widget display issues
+- Fixed an issue where tasks on the Android home widget did not display properly in some cases.
+
+2) Fixed sync issues
+- Fixed an issue where sync did not complete correctly in some cases.
+
+## Recommended Version
+
+If you can see this notice, please check that the version shown at the bottom of the Settings menu is `1.0.45`. We recommend using version `1.0.45` for stable use.
 
 Thank you.
