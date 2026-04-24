@@ -66,6 +66,6 @@ This hotfix addresses the following two issues.
 
 ## Recommended Version
 
-If you can see this notice, please check that the version shown at the bottom of the Settings menu is `1.0.45`. We recommend using version `1.0.45` for stable use.
+If you can see this notice, please check that the version shown at the bottom of the Settings menu is `1.0.46`. We recommend using version `1.0.46` for stable use.
 
 Thank you.
