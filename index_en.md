@@ -69,3 +69,22 @@ This hotfix addresses the following two issues.
 If you can see this notice, please check that the version shown at the bottom of the Settings menu is `1.0.46`. We recommend using version `1.0.46` for stable use.
 
 Thank you.
+
+---
+
+## 2026-04-27 Update Notice
+
+Hello, I'm the app developer.
+
+This update polishes the Pomodoro screen design and fixes a few cases where Repeat and Due Date in the task detail settings did not behave as intended.
+
+## Update Details
+
+1) Pomodoro screen design refresh
+- The previous Pomodoro screen felt a bit rough, so the overall design has been cleaned up.
+
+2) Repeat / Due Date behavior in task details
+- In the Plan menu task detail settings, toggling Repeat and Due Date on and off could leave both active at the same time or apply differently than expected.
+- This update makes the two settings clean each other up properly.
+
+Thank you.
