@@ -8,21 +8,19 @@ title: Update Notices
 
 Hello, I'm the app developer.
 
-This update fixes one sync stability issue and adds a few small improvements to the Plan menu and the task detail settings.
+This update redesigns the Pomodoro screen and adds further improvements to sync stability.
 
 ## Update Details
 
-1) Fixed sync issues between Windows and Android
-- In some environments, sync between Windows and Android occasionally got out of step. This update addresses that.
+1) New Pomodoro screen design
+- Tap a task to enter focus mode immediately, without being asked for a duration first.
+- A breathing orb sits in the middle of the screen so you can settle into a calm inhale-and-exhale rhythm.
+- While paused, a stop button appears alongside; tapping the check button at the bottom right marks the task as done and lets you pick the next task right away.
+- Stray thoughts that pop up mid-focus can be jotted down as a single line in the on-screen card.
+- Fixed an issue where finishing a task in Pomodoro did not check it off in the Today tab.
 
-2) "Now" line added to the Plan menu
-- In today's view, a thin horizontal line and dot now appear among your timed tasks to mark the current time.
-- The task in progress gets a highlight bar on its left, past tasks fade out, and the next task gets a subtle accent — so "what should I be doing right now?" is easier to see at a glance.
-- When the now line is off-screen, a small "Now ▼" chip appears at the bottom right and jumps you straight to it.
-
-3) Task detail settings cleanup
-- The Save button no longer follows the scroll — it now sits as a check icon at the top right.
-- Priority colors are now free for everyone.
-- Due date and Repeat are tucked behind a single collapsible row by default, so the screen feels less crowded.
+2) Further sync stability improvements
+- Patched additional edge cases where some tasks were dropped or duplicated during Windows-Android sync.
+- Hardened the cleanup logic for long-deleted items so sync state stays consistent over time.
 
 Thank you.
