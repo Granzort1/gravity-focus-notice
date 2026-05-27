@@ -4,6 +4,16 @@ title: Update Notices
 
 # Update Notices
 
+## 2026-05-28 Update Notice
+
+Hello, I'm the app developer.
+
+Fixed an issue that caused errors during sync. This has been resolved in **version 1.0.54**, so please update to the latest version.
+
+Thank you.
+
+---
+
 ## 2026-05-25 Update Notice
 
 Hello, I'm the app developer.
