@@ -4,6 +4,27 @@ title: Update Notices
 
 # Update Notices
 
+## 2026-05-30 Update Notice
+
+Hello, I'm the app developer.
+
+This update fixes a few issues found during everyday use. The fixes are included in **version 1.0.55**, so please update to the latest version.
+
+## Issues Fixed
+
+- Fixed an issue where notifications kept arriving even after turning off "Task notifications" in Settings.
+- Fixed an issue where plans and notes written in guest mode were not carried over after signing in.
+- Fixed an issue where the stray-thought note sheet during a Pomodoro could stay locked and block further input when saving failed.
+- Fixed an issue where active subscribers were incorrectly shown "Free trial: N days left."
+- Fixed an issue where the daily checklist's automatic reset did not sync across devices.
+- Fixed an issue where the character counter in Diary and Thought Journal did not update while typing.
+
+I also cleaned up unused internal code to improve the app's stability.
+
+Thank you.
+
+---
+
 ## 2026-05-28 Update Notice
 
 Hello, I'm the app developer.
