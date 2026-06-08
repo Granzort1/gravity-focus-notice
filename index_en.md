@@ -4,6 +4,24 @@ title: Update Notices
 
 # Update Notices
 
+## 2026-06-08 Update Notice
+
+Hello, I'm the app developer.
+
+This update fixes a few issues that got in the way while using the Timetable and Pomodoro, along with some small usability improvements. The fixes are included in **version 1.0.56**, so please update to the latest version.
+
+## Issues Fixed
+
+- Fixed an issue in a Timetable task's detail settings where editing and saving the task could fail to save after its recurring schedule had been deleted. I also fixed a related issue where re-enabling recurrence (e.g., Daily) on such a task had no effect — now a fresh repeat is created properly, so events are generated from the next day onward as well.
+- When a task name was too long, it used to be cut off with "…". In the Timetable and Pomodoro, the text now scrolls gently so you can read the whole thing.
+- Fixed an issue where stray-thought notes were not being saved on the Pomodoro focus screen.
+
+I also smoothed out a number of small rough edges around the app to improve everyday usability.
+
+Thank you.
+
+---
+
 ## 2026-05-30 Update Notice
 
 Hello, I'm the app developer.
