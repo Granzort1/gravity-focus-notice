@@ -4,6 +4,29 @@ title: Update Notices
 
 # Update Notices
 
+## 2026-06-11 Update Notice
+
+Hello, I'm the app developer.
+
+For this update I went through the entire app code and fixed a batch of issues that could cause data loss or freeze the screen. The fixes are included in **version 1.0.57**, so please update to the latest version.
+
+## Issues Fixed
+
+- Fixed an issue where, when using two devices (phone and PC), changes made on one device could be overwritten and lost during sync. Changes from both devices are now merged safely.
+- Fixed an issue where monthly repeating tasks set to the 29th–31st were skipped entirely in shorter months (like February). They are now created on the last day of that month instead.
+- Fixed an issue where importing a backup file failed entirely if even part of the data already existed. Re-importing the same backup no longer causes errors or duplicates.
+- Fixed an issue where the update notice screen would silently do nothing if the store app could not be opened — it now shows a message and offers to open the store in your browser instead.
+- Fixed an issue where the start button on the welcome screen could stop responding if the setup step failed.
+- Fixed an issue where a stray-thought note written on the Pomodoro screen could be lost if you closed the screen right after typing it.
+- Fixed an issue where tapping the purchase button quickly several times could trigger duplicate processing.
+- Windows: fixed an issue where the routine alarm sound kept playing even after the alarm was dismissed.
+
+Beyond these, I reviewed the whole app and hardened around 50 potential issues, and strengthened privacy protection so personal information is not included in analytics data.
+
+Thank you.
+
+---
+
 ## 2026-06-08 Update Notice
 
 Hello, I'm the app developer.
