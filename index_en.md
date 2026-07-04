@@ -4,6 +4,22 @@ title: Update Notices
 
 # Update Notices
 
+## 2026-07-05 Update Notice
+
+Hello, I'm the app developer.
+
+This update broadens the "Schedule" view and adds a new weekly view to the Windows "Timetable." The changes are included in **version 1.0.61**, so please update to the latest version.
+
+## Update Details
+
+1. The per-day list below the calendar in the "Schedule" menu now also shows upcoming events beyond today.
+2. The "Timetable" menu in the Windows app now includes a weekly timetable view. See your whole week's plan at a glance.
+3. Beyond these, I fixed a "recurrence" setting error and improved the mood-selection display in the Diary menu (calendar tab), along with a few other refinements.
+
+Thank you.
+
+---
+
 ## 2026-06-11 Update Notice
 
 Hello, I'm the app developer.
