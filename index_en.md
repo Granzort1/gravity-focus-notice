@@ -4,6 +4,23 @@ title: Update Notices
 
 # Update Notices
 
+## 2026-07-06 Update Notice
+
+Hello, I'm the app developer.
+
+This update includes a few convenience improvements. The changes are included in **version 1.0.62**, so please update to the latest version.
+
+## Update Details
+
+1. Fixed an issue in the "Timetable" menu where tasks on past dates could not be edited — they can now be edited.
+2. In the "Timetable" menu, when you change your wake-up and bedtime settings, they now apply to the day you set them and every day after it. You can also set the bedtime into the early hours of the next day (before your wake-up time).
+3. Improved the "Schedule" menu so that when you change the month, the title — which used to be cut off with "…" — is now shown in full.
+4. In the Android app, some bottom menu names were long enough to wrap onto two lines — they now fit on a single line by shortening the labels (e.g., "Schedule" → "Sched.", "Timetable" → "Plan").
+
+Thank you.
+
+---
+
 ## 2026-07-05 Update Notice
 
 Hello, I'm the app developer.
