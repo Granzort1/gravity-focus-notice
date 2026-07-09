@@ -4,6 +4,25 @@ title: Update Notices
 
 # Update Notices
 
+## 2026-07-09 Update Notice
+
+Hello, I'm the app developer.
+
+I wanted to add a little fun to planning your day, so this update introduces a brand-new **Constellation Dex**. The changes are included in **version 1.0.63**, so please update to the latest version.
+
+## Update Details
+
+1. **A Constellation Dex has arrived in the "Timetable" menu** (the star icon ⭐ at the top).
+   - Each day you complete tasks in the Timetable, you earn a **reward box that opens the next day**. Complete more tasks and you can earn up to 3 boxes a day.
+   - The next day, create or complete one task in the Timetable to unseal your box. Inside you'll find small gifts like personal-record insights and cheer cards — and, with a bit of luck, **a star lands in your very own galaxy**.
+   - When enough stars gather in the same constellation, it completes and gets registered in your dex. On Windows, hover over a star in the galaxy to see which constellation it belongs to and its progress.
+   - Boxes can only be opened within two days of arriving — so complete just one thing today for tomorrow-you. I built this hoping it makes planning feel a little more fun.
+2. This update also includes a few small convenience improvements throughout the app.
+
+Thank you.
+
+---
+
 ## 2026-07-06 Update Notice
 
 Hello, I'm the app developer.
