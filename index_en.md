@@ -4,6 +4,24 @@ title: Update Notices
 
 # Update Notices
 
+## 2026-07-12 Update Notice
+
+Hello, I'm the app developer.
+
+This update improves overall app quality and reduces excessive visual indicators in the "Timetable" menu so you can focus better on planning. The changes are included in **version 1.0.65**, so please update to the latest version.
+
+## Update Details
+
+1. In the "Timetable" menu, when you use **a due date together with a repeat cycle, recurring tasks are now created only up to the due date**.
+2. For those who'd like these recurring tasks to remind them every day, you can now set a reminder for all tasks at once in the **"Time Block Notification" setting in the More menu (Android)** (e.g., a reminder 5 minutes before every task starts).
+3. The **red-dot count on the next-day reward box** (earned by completing tasks in the Timetable) could pull your attention away — from now on, **it appears only on days you can open a box**. If you see the box, you can open it right away.
+4. This box was made in the hope that you'll **plan your tasks again the next day**, so today's completion reward (the box) can be opened **the next day, after your wake-up time** (it appears after you wake up the next day).
+5. A few other bugs have also been fixed.
+
+Thank you.
+
+---
+
 ## 2026-07-09 Update Notice
 
 Hello, I'm the app developer.
