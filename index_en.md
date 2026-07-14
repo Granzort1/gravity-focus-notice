@@ -4,6 +4,23 @@ title: Update Notices
 
 # Update Notices
 
+## 2026-07-14 Update Notice
+
+Hello, I'm the app developer.
+
+This update expands widget functionality and improves overall app quality. The changes are included in **version 1.0.68 on both Android and Windows**, so please update to the latest version.
+
+## Update Details
+
+1. To make widgets more useful in the Windows app, we've added a new desktop widget that displays the **"Weekly Timetable" from the "Timetable" menu**. We hope it makes checking your weekly schedule easier and more convenient.
+2. We've improved **sync reliability**.
+3. We've changed the app's **default font** and made other quality and usability improvements throughout the app.
+4. For the time being, we'll focus on **stability and usability improvements** rather than adding new features.
+
+Thank you.
+
+---
+
 ## 2026-07-12 Update Notice
 
 Hello, I'm the app developer.
