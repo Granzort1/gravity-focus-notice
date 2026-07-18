@@ -4,6 +4,24 @@ title: Update Notices
 
 # Update Notices
 
+## 2026-07-18 Update Notice
+
+Hello, I'm the app developer.
+
+This update makes it easier to get started when your "Timetable" is empty, with new one-tap quick-add buttons, and also refreshes the design of the "Journal" menu. The changes are included in **version 1.0.69**, so please update to the latest version.
+
+## Update Details
+
+1. **When the "Timetable" menu is empty, you can now add common tasks with a single tap.**
+   - Tap Take meds · Meal · Work/Study · Exercise · Break, and a time block is created automatically based on the current time. Tap "Custom" to create your own task as before.
+   - Tapped by mistake? Use "Undo" at the bottom to cancel right away, and if you don't need the buttons, hide them for the day with the ✕ button.
+   - When a blank timetable feels overwhelming, start your day with just one easy block.
+2. **The "Journal" menu design has been improved.** The list/calendar toggle has moved into the top bar so you get more room on screen, and the journal cards and calendar display have been tidied up.
+
+Thank you.
+
+---
+
 ## 2026-07-14 Update Notice
 
 Hello, I'm the app developer.
