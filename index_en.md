@@ -4,6 +4,23 @@ title: Update Notices
 
 # Update Notices
 
+## 2026-07-19 Update Notice
+
+Hello, I'm the app developer.
+
+This update refreshes the dark mode colors and the galaxy screen in the "Timetable" menu, and improves sync reliability. The changes are included in **version 1.0.70**, so please update to the latest version.
+
+## Update Details
+
+1. We've improved the **dark mode color design**.
+2. We've upgraded the **galaxy (star icon) in the "Timetable" menu with gem-shaped stars and a more dynamic screen**, so decorating it feels even more rewarding. Plan and complete your tasks to build a galaxy of your own!
+3. We've improved **sync reliability**.
+4. We've also polished **text that read awkwardly** here and there.
+
+Thank you.
+
+---
+
 ## 2026-07-18 Update Notice
 
 Hello, I'm the app developer.

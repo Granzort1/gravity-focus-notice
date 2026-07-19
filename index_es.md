@@ -4,6 +4,23 @@ title: Avisos de actualización
 
 # Avisos de actualización
 
+## Aviso de actualización — 2026-07-19
+
+Hola, soy el desarrollador de la app.
+
+En esta actualización renovamos los colores del modo oscuro y la pantalla de la galaxia del menú "Horario", y mejoramos la estabilidad de la sincronización. Los cambios están incluidos en la **versión 1.0.70**, así que por favor actualiza a la versión más reciente.
+
+## Detalles de la actualización
+
+1. **Mejoramos el diseño de colores del modo oscuro.**
+2. **Mejoramos la galaxia (ícono de estrella) del menú "Horario"** con estrellas en forma de gemas y una pantalla más dinámica, para que decorarla sea aún más atractivo. ¡Planifica y completa tus tareas para crear tu propia galaxia!
+3. **Mejoramos la estabilidad de la sincronización.**
+4. También **pulimos algunos textos que resultaban poco naturales.**
+
+Gracias.
+
+---
+
 ## Aviso de actualización — 2026-07-18
 
 Hola, soy el desarrollador de la app.
