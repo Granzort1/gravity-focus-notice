@@ -8,7 +8,7 @@ title: Avisos de actualización
 
 Hola, soy el desarrollador de la app.
 
-En esta actualización agregamos una función de adición rápida para que sea más fácil empezar cuando el "Horario" está vacío, y también mejoramos el diseño del menú "Diario". Los cambios están incluidos en la **versión 1.0.69**, así que por favor actualiza a la versión más reciente.
+En esta actualización agregamos una función de adición rápida para que sea más fácil empezar cuando el "Horario" está vacío, y también mejoramos el diseño del menú "Diario". Los cambios están incluidos en la **versión 1.0.70**, así que por favor actualiza a la versión más reciente.
 
 ## Detalles de la actualización
 

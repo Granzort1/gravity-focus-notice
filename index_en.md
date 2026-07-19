@@ -8,7 +8,7 @@ title: Update Notices
 
 Hello, I'm the app developer.
 
-This update makes it easier to get started when your "Timetable" is empty, with new one-tap quick-add buttons, and also refreshes the design of the "Journal" menu. The changes are included in **version 1.0.69**, so please update to the latest version.
+This update makes it easier to get started when your "Timetable" is empty, with new one-tap quick-add buttons, and also refreshes the design of the "Journal" menu. The changes are included in **version 1.0.70**, so please update to the latest version.
 
 ## Update Details
 
