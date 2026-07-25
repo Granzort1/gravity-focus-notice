@@ -4,6 +4,24 @@ title: Avisos de actualización
 
 # Avisos de actualización
 
+## Aviso de actualización — 2026-07-26
+
+Hola, soy el desarrollador de la app.
+
+En esta actualización mejoramos la vista de lista del menú "Diario" para que sea más fácil de leer de un vistazo, y ampliamos las cajas de recompensa de la galaxia para que también puedas obtenerlas en los menús "Diario" y "Rutina". Los cambios están incluidos en la **versión 1.0.71**, así que por favor actualiza a la versión más reciente.
+
+## Detalles de la actualización
+
+1. En la vista de lista del menú "Diario", **ahora la fecha y el emoticono de emoción se distinguen con mucha más claridad**.
+2. **Ahora puedes obtener una caja de recompensa de la galaxia también en los menús "Diario" y "Rutina" (una en cada uno).**
+   - La caja del Diario se obtiene al escribir una entrada al día, y la de Rutina al completar un set de rutinas.
+   - Hasta 3 cajas del Horario + 1 del Diario + 1 de Rutina: puedes acumular **hasta 5 cajas al día**, y se pueden abrir al día siguiente.
+3. También hicimos **pequeños ajustes en toda la app para que el diseño sea más consistente.**
+
+Gracias.
+
+---
+
 ## Aviso de actualización — 2026-07-19
 
 Hola, soy el desarrollador de la app.

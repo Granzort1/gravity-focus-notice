@@ -4,6 +4,24 @@ title: Update Notices
 
 # Update Notices
 
+## 2026-07-26 Update Notice
+
+Hello, I'm the app developer.
+
+This update makes the "Journal" list view easier to read at a glance, and expands the galaxy reward boxes so you can now earn them from the "Journal" and "Routine" menus as well. The changes are included in **version 1.0.71**, so please update to the latest version.
+
+## Update Details
+
+1. In the "Journal" menu's list view, **the date and emotion emoji are now much easier to recognize**.
+2. **You can now earn one galaxy reward box each from the "Journal" and "Routine" menus.**
+   - The Journal box is earned by writing one entry a day, and the Routine box by completing one routine set.
+   - Up to 3 boxes from the Timetable + 1 from the Journal + 1 from Routines — you can collect **up to 5 boxes a day**, and they open the next day.
+3. We've also made **small refinements throughout the app for a more consistent design.**
+
+Thank you.
+
+---
+
 ## 2026-07-19 Update Notice
 
 Hello, I'm the app developer.
