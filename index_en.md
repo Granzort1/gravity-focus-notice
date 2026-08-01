@@ -4,6 +4,23 @@ title: Update Notices
 
 # Update Notices
 
+## 2026-08-01 Update Notice
+
+Hello, I'm the app developer.
+
+This update makes it easier to start a Pomodoro when adding a task, and improves your galaxy screen. The changes are included in **version 1.0.72**, so please update to the latest version.
+
+## Update Details
+
+1. **When you add a task in the "Timetable" menu, the Pomodoro button now appears turned on by default.** Try starting a focus session right as you create the task — if you don't need it, just turn it off before saving.
+2. Fixed a bug where **up to 7 reward boxes could appear in a day on the galaxy screen** — it now correctly shows **up to 5 boxes a day**, as intended.
+3. **Stars in your galaxy now show a sense of depth based on their distance.**
+4. We've also fixed **a few other bugs**.
+
+Thank you.
+
+---
+
 ## 2026-07-26 Update Notice
 
 Hello, I'm the app developer.

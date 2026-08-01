@@ -4,6 +4,23 @@ title: Avisos de actualización
 
 # Avisos de actualización
 
+## Aviso de actualización — 2026-08-01
+
+Hola, soy el desarrollador de la app.
+
+En esta actualización hicimos que sea más fácil empezar un Pomodoro al agregar una tarea, y mejoramos la pantalla de tu galaxia. Los cambios están incluidos en la **versión 1.0.72**, así que por favor actualiza a la versión más reciente.
+
+## Detalles de la actualización
+
+1. **Al agregar una tarea en el menú "Horario", el botón de Pomodoro ahora aparece activado de forma predeterminada.** Prueba empezar una sesión de concentración justo al crear la tarea; si no la necesitas, simplemente desactívalo antes de guardar.
+2. Corregimos un error por el cual **podían aparecer hasta 7 cajas de recompensa al día en la pantalla de la galaxia**; ahora se muestran correctamente **hasta 5 cajas al día**, como corresponde.
+3. **Las estrellas de tu galaxia ahora muestran una sensación de profundidad según su distancia.**
+4. También corregimos **algunos otros errores**.
+
+Gracias.
+
+---
+
 ## Aviso de actualización — 2026-07-26
 
 Hola, soy el desarrollador de la app.
