@@ -4,6 +4,22 @@ title: Update Notices
 
 # Update Notices
 
+## 2026-08-02 Update Notice
+
+Hello, I'm the app developer.
+
+This update **fixes an issue in the previous version (1.0.72) where an error screen briefly appeared when launching the app**. The fix is included in **version 1.0.73**, so please update to the latest version.
+
+## Update Details
+
+1. **Fixed an issue where an error screen briefly appeared and then disappeared when starting the app.** Your data was not affected.
+
+I'm sorry for the inconvenience. I will review updates more thoroughly before release so this doesn't happen again.
+
+Thank you.
+
+---
+
 ## 2026-08-01 Update Notice
 
 Hello, I'm the app developer.

@@ -4,6 +4,22 @@ title: Avisos de actualización
 
 # Avisos de actualización
 
+## Aviso de actualización — 2026-08-02
+
+Hola, soy el desarrollador de la app.
+
+Esta actualización **corrige un problema de la versión anterior (1.0.72) por el cual aparecía brevemente una pantalla de error al abrir la app**. La corrección está incluida en la **versión 1.0.73**, así que por favor actualiza a la versión más reciente.
+
+## Detalles de la actualización
+
+1. **Corregimos un problema por el cual una pantalla de error aparecía brevemente y luego desaparecía al iniciar la app.** Tus datos no se vieron afectados.
+
+Lamento las molestias. A partir de ahora revisaré las actualizaciones con más cuidado antes de publicarlas para que esto no vuelva a ocurrir.
+
+Gracias.
+
+---
+
 ## Aviso de actualización — 2026-08-01
 
 Hola, soy el desarrollador de la app.
