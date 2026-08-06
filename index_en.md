@@ -4,6 +4,25 @@ title: Update Notices
 
 # Update Notices
 
+## 2026-08-06 Update Notice
+
+Hello, I'm the app developer.
+
+This update fixes issues found in monthly recurring schedule creation and the account deletion process. The fixes are included in **version 1.0.77**, so please update to the latest version.
+
+## Update Details
+
+1. **Fixed an issue where some monthly recurring schedules were not created correctly when a deadline and monthly recurrence were set together.**
+2. **Fixed an issue where account deletion could be interrupted if an error occurred while deleting a Google Drive backup.** Google Drive backups are now cleaned up when accessible, and account deletion will continue even if the backup cleanup fails.
+
+If an issue continues after updating, or if you encounter another problem, please email [skadldh@gmail.com](mailto:skadldh@gmail.com) with as much detail as possible about what happened and the symptoms you experienced. I will review your report carefully and make any further improvements needed.
+
+I apologize for the inconvenience. I will continue working to make the app more reliable.
+
+Thank you.
+
+---
+
 ## 2026-08-02 Update Notice
 
 Hello, I'm the app developer.
