@@ -4,6 +4,44 @@ title: Avisos de actualización
 
 # Avisos de actualización
 
+## Aviso de actualización — 2026-08-08
+
+Hola, soy el desarrollador de la app.
+
+Esta actualización corrige dos problemas pendientes relacionados con los horarios recurrentes. Las correcciones están incluidas en la **versión 1.0.78**, así que por favor actualiza a la versión más reciente.
+
+## Detalles de la actualización
+
+1. **Corregimos un problema por el cual la configuración de repetición (semanal, mensual, etc.) en el menú "Horario" a veces no se guardaba correctamente.** Ahora la repetición se registra correctamente incluso cuando se establece junto con una fecha límite, o al activar la repetición en una tarea de una fecha pasada.
+2. **Corregimos un problema por el cual los horarios recurrentes no se mostraban correctamente en el widget de la pantalla de inicio.** Ahora el widget muestra los horarios recurrentes igual que la app y puedes marcarlos como completados directamente desde el widget.
+
+Si el problema continúa después de actualizar, o si encuentras otro problema, escríbeme a [skadldh@gmail.com](mailto:skadldh@gmail.com) describiendo con el mayor detalle posible lo que ocurrió y los síntomas. Revisaré tu mensaje con atención y haré las mejoras adicionales que sean necesarias.
+
+Lamento las molestias. Seguiré trabajando para que la app sea cada vez más estable.
+
+Gracias.
+
+---
+
+## Aviso de actualización — 2026-08-06
+
+Hola, soy el desarrollador de la app.
+
+Esta actualización corrige problemas encontrados en la creación de horarios recurrentes mensuales y en el proceso de eliminación de cuenta. Las correcciones están incluidas en la **versión 1.0.77**, así que por favor actualiza a la versión más reciente.
+
+## Detalles de la actualización
+
+1. **Corregimos un problema por el cual algunos horarios recurrentes mensuales no se creaban correctamente al establecer una fecha límite junto con la repetición mensual.**
+2. **Corregimos un problema por el cual la eliminación de la cuenta podía interrumpirse si ocurría un error al eliminar una copia de seguridad de Google Drive.** Ahora las copias de seguridad de Google Drive se limpian cuando son accesibles, y la eliminación de la cuenta continúa aunque falle la limpieza de la copia de seguridad.
+
+Si el problema continúa después de actualizar, o si encuentras otro problema, escríbeme a [skadldh@gmail.com](mailto:skadldh@gmail.com) describiendo con el mayor detalle posible lo que ocurrió y los síntomas. Revisaré tu mensaje con atención y haré las mejoras adicionales que sean necesarias.
+
+Lamento las molestias. Seguiré trabajando para que la app sea cada vez más estable.
+
+Gracias.
+
+---
+
 ## Aviso de actualización — 2026-08-02
 
 Hola, soy el desarrollador de la app.

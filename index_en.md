@@ -4,6 +4,25 @@ title: Update Notices
 
 # Update Notices
 
+## 2026-08-08 Update Notice
+
+Hello, I'm the app developer.
+
+This update fixes two remaining issues related to recurring schedules. The fixes are included in **version 1.0.78**, so please update to the latest version.
+
+## Update Details
+
+1. **Fixed an issue where recurrence settings (weekly, monthly, etc.) in the "Plan" menu were sometimes not saved correctly.** Recurrence is now registered properly even when a deadline is set together, or when you turn on recurrence for a task on a past date.
+2. **Fixed an issue where recurring schedules were not displayed properly in the home screen widget.** The widget now shows recurring schedules just like the app, and you can check them off directly from the widget.
+
+If an issue continues after updating, or if you encounter another problem, please email [skadldh@gmail.com](mailto:skadldh@gmail.com) with as much detail as possible about what happened and the symptoms you experienced. I will review your report carefully and make any further improvements needed.
+
+I apologize for the inconvenience. I will continue working to make the app more reliable.
+
+Thank you.
+
+---
+
 ## 2026-08-06 Update Notice
 
 Hello, I'm the app developer.
