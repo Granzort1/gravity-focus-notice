@@ -4,6 +4,23 @@ title: Update Notices
 
 # Update Notices
 
+## 2026-08-14 Update Notice
+
+Hello, I'm the app developer.
+
+With this update, you can now rearrange tasks that don't have a set time in the "Timetable" menu. The change is included in **version 1.0.80**, so please update to the latest version.
+
+## Update Details
+
+1. **In the "Timetable" menu, you can now press and hold a task without a set time to move it up or down.**
+   - Long-press the task you want to move, then drag it to where you want it. You can organize your day in your own order without having to set times.
+   - The new order is saved and shown in the same order on the home screen widget.
+   - Repeating tasks can be moved once they're added to today's list by checking them off or opening them.
+
+Thank you.
+
+---
+
 ## 2026-08-08 Update Notice
 
 Hello, I'm the app developer.

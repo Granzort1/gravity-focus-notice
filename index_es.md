@@ -4,6 +4,23 @@ title: Avisos de actualización
 
 # Avisos de actualización
 
+## Aviso de actualización — 2026-08-14
+
+Hola, soy el desarrollador de la app.
+
+Con esta actualización, ahora puedes reordenar las tareas sin hora asignada en el menú "Horario". El cambio está incluido en la **versión 1.0.80**, así que por favor actualiza a la versión más reciente.
+
+## Detalles de la actualización
+
+1. **En el menú "Horario", ahora puedes mantener pulsada una tarea sin hora asignada para moverla hacia arriba o hacia abajo.**
+   - Mantén pulsada la tarea que quieras mover y arrástrala a donde prefieras. Puedes organizar tu día en el orden que quieras sin necesidad de asignar horas.
+   - El nuevo orden se guarda y se muestra igual en el widget de la pantalla de inicio.
+   - Las tareas repetitivas se pueden mover cuando estén en la lista de hoy, marcándolas o abriéndolas.
+
+Gracias.
+
+---
+
 ## Aviso de actualización — 2026-08-08
 
 Hola, soy el desarrollador de la app.
