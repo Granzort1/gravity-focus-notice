@@ -4,6 +4,21 @@ title: Avisos de actualización
 
 # Avisos de actualización
 
+## Aviso de actualización — 2026-08-17
+
+Hola, soy el desarrollador de la app.
+
+Esta actualización mejora el diseño de la app. Los cambios están incluidos en la **versión 1.0.81**, así que por favor actualiza a la versión más reciente.
+
+## Detalles de la actualización
+
+1. **Se han mejorado los colores del modo oscuro.** El fondo ahora usa un tono más sereno y se ha ajustado el contraste entre el texto y los colores de acento, así que la pantalla cansa menos la vista y el contenido se lee con más claridad en la oscuridad.
+2. **Se ha mejorado el diseño del menú "Horario".** Se ajustaron los espacios y los tamaños de texto para que puedas ver tus tareas de un vistazo, y ahora el botón de inicio y las horas siguen el color de prioridad de cada tarea.
+
+Gracias.
+
+---
+
 ## Aviso de actualización — 2026-08-14
 
 Hola, soy el desarrollador de la app.

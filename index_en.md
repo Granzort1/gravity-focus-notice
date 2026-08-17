@@ -4,6 +4,21 @@ title: Update Notices
 
 # Update Notices
 
+## 2026-08-17 Update Notice
+
+Hello, I'm the app developer.
+
+This update improves the app's design. The changes are included in **version 1.0.81**, so please update to the latest version.
+
+## Update Details
+
+1. **Dark mode colors have been improved.** The background now uses a calmer tone, and the contrast between text and accent colors has been cleaned up, so the screen is easier on your eyes and the content reads more clearly in the dark.
+2. **The "Timetable" menu design has been improved.** Spacing and text sizes were adjusted so your tasks are easier to scan at a glance, and the start button and time labels now follow each task's priority color.
+
+Thank you.
+
+---
+
 ## 2026-08-14 Update Notice
 
 Hello, I'm the app developer.
