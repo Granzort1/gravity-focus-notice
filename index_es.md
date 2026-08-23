@@ -4,6 +4,23 @@ title: Avisos de actualización
 
 # Avisos de actualización
 
+## Aviso de actualización — 2026-08-23
+
+Hola, soy el desarrollador de la app.
+
+Esta actualización mejora la pantalla "Mi galaxia" y el menú "Horario", y añade una vista de lista a "Descarga mental". Los cambios están incluidos en la **versión 1.0.82**, así que por favor actualiza a la versión más reciente.
+
+## Detalles de la actualización
+
+1. **Las estrellas de la pantalla "Mi galaxia" ahora se organizan por constelaciones.** Las estrellas que has reunido al completar tareas se agrupan en sus constelaciones, así que tu galaxia se ve mucho más ordenada.
+2. **En el menú "Horario", ahora puedes enviar a hoy las tareas de fechas pasadas.** No hace falta volver a crear las tareas pendientes: muévelas a hoy y continúa donde lo dejaste.
+3. **Ahora puedes ver el contenido de "Descarga mental" también como lista.** Cambia entre la vista de calendario y la nueva vista de lista con un solo botón.
+4. **Se han mejorado partes de la pantalla "Rutina" que se veían extrañas en el modo oscuro.**
+
+Gracias.
+
+---
+
 ## Aviso de actualización — 2026-08-17
 
 Hola, soy el desarrollador de la app.

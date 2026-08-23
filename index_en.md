@@ -4,6 +4,23 @@ title: Update Notices
 
 # Update Notices
 
+## 2026-08-23 Update Notice
+
+Hello, I'm the app developer.
+
+This update improves the My Galaxy screen and the "Timetable" menu, and adds a list view to "Brain Dump". The changes are included in **version 1.0.82**, so please update to the latest version.
+
+## Update Details
+
+1. **Stars in the My Galaxy screen are now arranged by constellation.** The stars you've collected by completing tasks now gather into their constellations, making your galaxy look much tidier.
+2. **In the "Timetable" menu, you can now send tasks from past dates straight to today.** No need to recreate unfinished tasks — just move them to today and pick up where you left off.
+3. **You can now view your "Brain Dump" entries as a list.** Switch between the existing calendar view and the new list view with a single button.
+4. **Improved parts of the "Routine" screen that looked awkward in dark mode.**
+
+Thank you.
+
+---
+
 ## 2026-08-17 Update Notice
 
 Hello, I'm the app developer.
