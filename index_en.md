@@ -4,6 +4,22 @@ title: Update Notices
 
 # Update Notices
 
+## 2026-08-27 Update Notice
+
+Hello, I'm the app developer.
+
+This update gives the "My Galaxy" screen a lovely makeover, and improves sync stability and the checkbox design in the "Timetable" menu. The changes are included in **version 1.0.83**, so please update to the latest version.
+
+## Update Details
+
+1. **The "My Galaxy" screen got an adorable makeover.** The stars you've collected by completing tasks are reborn as soft, candy-like pastel stars. Comets are now smaller and more subtle, and they drift through your galaxy pulled by the gravity of the bigger stars — you can adjust the gravity strength to your liking via the book-shaped button (Star collection) at the top right of the screen. Keep planning and completing your tasks, and fill in more and more of your own constellations.
+2. **Improved sync stability.** We refined the internal behavior so your data stays safer when you switch between devices.
+3. **Improved the checkbox design in the "Timetable" menu.** The checkboxes are now round — a better fit for a task list — and when you complete a task they briefly glow in its priority color before settling down calmly.
+
+Thank you.
+
+---
+
 ## 2026-08-23 Update Notice
 
 Hello, I'm the app developer.
