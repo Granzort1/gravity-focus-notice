@@ -4,6 +4,24 @@ title: Update Notices
 
 # Update Notices
 
+## 2026-08-31 Update Notice
+
+Hello, I'm the app developer.
+
+This update makes it easier to control your Pomodoro session from the mini timer at the bottom of the app and streamlines the task-completion experience in the "Timetable" menu. The changes are included in **version 1.0.84**, so please update to the latest version.
+
+## Update Details
+
+1. **You can now start or resume, pause, and stop a Pomodoro session directly from the mini timer at the bottom of the app.** While browsing multiple tasks in the "Timetable" menu, you can manage your focus session from the mini timer without returning to the Pomodoro screen.
+2. **Removed the celebration message that appeared at the top of the "Timetable" menu when you completed a task.** This makes task completion feel cleaner, while the spinning-star and reward-box animations shown when you tap the check button remain in place.
+3. **Fixed a few other issues and improved app stability.**
+
+I tend to take a fairly bold approach to updates, so if anything feels inconvenient or awkward, please feel free to email me at [skadldh@gmail.com](mailto:skadldh@gmail.com). Design is an area where I may miss things in particular, so I carefully review specific feedback and incorporate it wherever I can.
+
+Thank you.
+
+---
+
 ## 2026-08-27 Update Notice
 
 Hello, I'm the app developer.
@@ -14,7 +32,7 @@ This update gives the "My Galaxy" screen a lovely makeover, and improves sync st
 
 1. **The "My Galaxy" screen got an adorable makeover.** The stars you've collected by completing tasks are reborn as soft, candy-like pastel stars. Comets are now smaller and more subtle, and they drift through your galaxy pulled by the gravity of the bigger stars — you can adjust the gravity strength to your liking via the book-shaped button (Star collection) at the top right of the screen. Keep planning and completing your tasks, and fill in more and more of your own constellations.
 2. **Improved sync stability.** We refined the internal behavior so your data stays safer when you switch between devices.
-3. **Improved the checkbox design in the "Timetable" menu.** The checkboxes are now round — a better fit for a task list — and when you complete a task they briefly glow in its priority color before settling down calmly.
+3. **Improved the checkbox design in the "Timetable" menu.** The checkboxes now have a softer shape that fits a task list better, and completed checks read clearly at a glance before settling into a calm tone.
 
 Thank you.
 

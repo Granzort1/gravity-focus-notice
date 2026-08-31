@@ -4,6 +4,24 @@ title: Avisos de actualización
 
 # Avisos de actualización
 
+## Aviso de actualización — 2026-08-31
+
+Hola, soy el desarrollador de la app.
+
+Esta actualización mejora la barra del mini Pomodoro dentro de la app y simplifica la experiencia al completar tareas en el menú "Horario". Los cambios están incluidos en la **versión 1.0.84**, así que por favor actualiza a la versión más reciente.
+
+## Detalles de la actualización
+
+1. **Ahora puedes iniciar o reanudar, pausar y detener un Pomodoro directamente desde la barra del mini Pomodoro situada en la parte inferior de la app.** Mientras revisas varias tareas en el menú "Horario", ya no necesitas volver a la pantalla del Pomodoro: puedes controlar cómodamente tu sesión de concentración desde esta pequeña barra.
+2. **Eliminamos la ventana con el mensaje de felicitación que aparecía en la parte superior al completar una tarea en el menú "Horario".** Para que la pantalla se vea más limpia, la estrella giratoria y la caja de recompensa que aparecen al marcar la tarea se mantienen igual que antes.
+3. **También corregimos algunos errores y mejoramos la estabilidad de la app.**
+
+Suelo introducir cambios un poco atrevidos en las actualizaciones, así que, si encuentras algo incómodo o poco natural al usar la app, te agradeceré que me escribas a [skadldh@gmail.com](mailto:skadldh@gmail.com). En particular, sé que puede haber aspectos del diseño que se me escapen; también agradezco mucho este tipo de comentarios y procuro incorporar todas las sugerencias que puedo.
+
+Gracias.
+
+---
+
 ## Aviso de actualización — 2026-08-27
 
 Hola, soy el desarrollador de la app.
@@ -14,7 +32,7 @@ Esta actualización renueva por completo el diseño de la pantalla "Mi galaxia",
 
 1. **La pantalla "Mi galaxia" ahora luce más adorable que nunca.** Las estrellas que has reunido al completar tareas renacen como estrellas pastel, suaves como caramelos. Los cometas ahora son más pequeños y discretos, y viajan por tu galaxia atraídos por la gravedad de las estrellas grandes: puedes ajustar la intensidad de la gravedad a tu gusto con el botón en forma de libro (Colección de estrellas) en la parte superior derecha de la pantalla. Sigue planificando y completando tus tareas, y llena cada vez más tus propias constelaciones.
 2. **Se mejoró la estabilidad de la sincronización.** Refinamos el funcionamiento interno para que tus datos se conserven con más seguridad al usar varios dispositivos.
-3. **Se mejoró el diseño de las casillas del menú "Horario".** Ahora son redondas —más acordes con una lista de tareas— y, al completar una tarea, brillan un instante con el color de su prioridad antes de asentarse con calma.
+3. **Se mejoró el diseño de las casillas del menú "Horario".** Ahora tienen una forma más suave que encaja mejor con una lista de tareas, y al completar una tarea la marca se ve clara al instante antes de asentarse en un tono calmado.
 
 Gracias.
 
