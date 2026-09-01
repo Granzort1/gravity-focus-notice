@@ -4,6 +4,22 @@ title: Update Notices
 
 # Update Notices
 
+## 2026-09-02 Update Notice
+
+Hello, I'm the app developer.
+
+This update adds a style picker to the "My Galaxy" screen and introduces a new "Together" mode for routines. The changes are included in **version 1.0.86**, so please update to the latest version.
+
+## Update Details
+
+1. **You can now choose from four styles for the "My Galaxy" screen.** Since some of you said you preferred the previous constellation look after the recent redesign, you can now pick your favorite style from the palette button at the top of the screen. Collect your stars in the galaxy that suits your taste.
+2. **A new "Together" mode has been added to routines.** It comes from a simple realization: a plain checklist can feel stiff, and that makes starting hard. Tap "Start together" on a routine to go through it one step at a time, with a short encouraging line along the way. If you get stuck, you can shrink the step into something smaller, skip it, or wrap up guilt-free with "That's enough for today." Tapping a routine alarm now takes you straight into Together mode. If a habit just isn't sticking, try starting it together.
+3. **Fixed a few other issues and improved app stability.**
+
+Thank you.
+
+---
+
 ## 2026-08-31 Update Notice
 
 Hello, I'm the app developer.

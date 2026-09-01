@@ -4,6 +4,22 @@ title: Avisos de actualización
 
 # Avisos de actualización
 
+## Aviso de actualización — 2026-09-02
+
+Hola, soy el desarrollador de la app.
+
+Esta actualización añade un selector de estilos a la pantalla "Mi galaxia" e introduce el nuevo modo "Juntos" para las rutinas. Los cambios están incluidos en la **versión 1.0.86**, así que actualiza a la última versión.
+
+## Detalles de la actualización
+
+1. **Ahora puedes elegir entre cuatro estilos para la pantalla "Mi galaxia".** Como algunas personas opinaron que preferían el aspecto anterior de las constelaciones tras el último rediseño, ahora puedes escoger tu estilo favorito con el botón de paleta en la parte superior de la pantalla. Reúne tus estrellas en la galaxia que más te guste.
+2. **Se ha añadido el nuevo modo "Juntos" a las rutinas.** Nace de una idea sencilla: una lista de tareas a secas puede resultar rígida, y eso hace difícil empezar. Toca "Empezar juntos" en una rutina para avanzar paso a paso, con una frase breve de acompañamiento en cada uno. Si te atascas, puedes reducir el paso a algo más pequeño, saltarlo o cerrar sin culpa con "Por hoy es suficiente". Al tocar la alarma de una rutina ahora entras directamente en el modo Juntos. Si un hábito no termina de asentarse, prueba a empezarlo juntos.
+3. **Se corrigieron otros errores y se mejoró la estabilidad de la app.**
+
+Gracias.
+
+---
+
 ## Aviso de actualización — 2026-08-31
 
 Hola, soy el desarrollador de la app.
