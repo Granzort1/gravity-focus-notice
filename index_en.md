@@ -4,7 +4,7 @@ title: Update Notices
 
 # Update Notices
 
-## 2026-09-08 Update Notice
+## 2026-09-06 Update Notice
 
 Hello, I'm the app developer.
 

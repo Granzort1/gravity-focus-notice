@@ -4,7 +4,7 @@ title: Avisos de actualización
 
 # Avisos de actualización
 
-## Aviso de actualización — 2026-09-08
+## Aviso de actualización — 2026-09-06
 
 Hola, soy el desarrollador de la app.
 
