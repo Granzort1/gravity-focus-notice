@@ -4,6 +4,21 @@ title: Avisos de actualización
 
 # Avisos de actualización
 
+## Aviso de actualización — 2026-09-08
+
+Hola, soy el desarrollador de la app.
+
+Esta actualización corrige textos y mensajes que resultaban poco naturales en distintas partes de la app y mejora la calidad general. Los cambios están incluidos en la **versión 1.0.87**, así que actualiza a la última versión.
+
+## Detalles de la actualización
+
+1. **Se corrigieron los textos y mensajes que sonaban poco naturales o no transmitían bien su significado.** Revisé los textos de toda la app pantalla por pantalla y los corregí para que sean más naturales y fáciles de entender.
+2. **Se corrigieron otros errores y se mejoró la estabilidad de la app.**
+
+Gracias.
+
+---
+
 ## Aviso de actualización — 2026-09-02
 
 Hola, soy el desarrollador de la app.

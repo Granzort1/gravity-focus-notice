@@ -4,6 +4,21 @@ title: Update Notices
 
 # Update Notices
 
+## 2026-09-08 Update Notice
+
+Hello, I'm the app developer.
+
+This update fixes awkward wording and messages throughout the app and improves overall quality. The changes are included in **version 1.0.87**, so please update to the latest version.
+
+## Update Details
+
+1. **Fixed wording and messages that read awkwardly or didn't get their meaning across.** I went through the text across the app screen by screen and revised it to be more natural and easier to understand.
+2. **Fixed a few other issues and improved app stability.**
+
+Thank you.
+
+---
+
 ## 2026-09-02 Update Notice
 
 Hello, I'm the app developer.
