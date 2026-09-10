@@ -4,6 +4,20 @@ title: Avisos de actualización
 
 # Avisos de actualización
 
+## Compatibilidad con el chino — 2026-09-08
+
+Hola, soy el desarrollador de la app.
+
+En respuesta a la petición de un usuario, he añadido compatibilidad con el **chino simplificado y tradicional**. Ahora puedes planificar tu día y concentrarte en un idioma que te resulte más familiar.
+
+Elige el idioma que prefieras en **Ajustes → Ajustes de idioma** dentro de la app.
+
+Si encuentras alguna traducción poco natural o difícil de entender, no dudes en compartir tus comentarios. Seguiré puliendo los textos para que la app resulte más natural y fácil de usar.
+
+Gracias.
+
+---
+
 ## Aviso de actualización — 2026-09-06
 
 Hola, soy el desarrollador de la app.

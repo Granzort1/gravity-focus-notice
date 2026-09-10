@@ -4,6 +4,20 @@ title: Update Notices
 
 # Update Notices
 
+## 2026-09-08 Chinese Language Support
+
+Hello, I'm the app developer.
+
+In response to a user's request, I've added support for **Simplified and Traditional Chinese**. You can now plan your day and focus in a language that feels more familiar.
+
+Choose your preferred language in **Settings → Language Settings** in the app.
+
+If you come across any translations that sound awkward or are hard to understand, please share your feedback. I'll keep refining the wording to make the app feel more natural and easier to use.
+
+Thank you.
+
+---
+
 ## 2026-09-06 Update Notice
 
 Hello, I'm the app developer.
