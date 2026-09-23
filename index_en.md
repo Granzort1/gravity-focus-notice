@@ -4,6 +4,22 @@ title: Update Notices
 
 # Update Notices
 
+## 2026-09-24 Update Notice
+
+Hello, I'm the app developer.
+
+This update lets you add a time to your schedule entries and improves the "My Galaxy" screen and the Windows app's "Timetable" menu. The changes are included in **version 1.0.89**, so please update to the latest version.
+
+## Update Details
+
+1. **You can now optionally set a time for entries in the "Schedule" menu.** An entry with a time is automatically added as a task to that day's "Timetable" menu. Also, on the weekly timetable in the Windows app's "Timetable" menu, hovering over an empty time slot now shows "+ Add task" — click it to add a task at that time right away.
+2. **Improved the "My Galaxy" screen, which became hard to read as more stars piled up.** Stars are now slightly smaller and spread out more widely, and constellations you've completed can be folded into a small constellation shape. Tap a folded constellation to expand it again anytime.
+3. **Fixed an issue in the Windows app where some repeat settings weren't saved when setting a task to repeat in the "Timetable" menu.**
+
+Thank you.
+
+---
+
 ## 2026-09-08 Chinese Language Support
 
 Hello, I'm the app developer.

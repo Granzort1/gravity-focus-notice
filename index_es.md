@@ -4,6 +4,22 @@ title: Avisos de actualización
 
 # Avisos de actualización
 
+## Aviso de actualización — 2026-09-24
+
+Hola, soy el desarrollador de la app.
+
+Esta actualización te permite añadir una hora a tus eventos de la agenda y mejora la pantalla "Mi galaxia" y el menú "Horario" de la app de Windows. Los cambios están incluidos en la **versión 1.0.89**, así que actualiza a la última versión.
+
+## Detalles de la actualización
+
+1. **Ahora puedes asignar una hora, si quieres, a los eventos del menú "Agenda".** Los eventos con hora se agregan automáticamente como tarea al menú "Horario" de ese día. Además, en el horario semanal del menú "Horario" de la app de Windows, al pasar el cursor sobre una franja horaria vacía aparece "+ Agregar tarea"; haz clic para agregar una tarea a esa hora al instante.
+2. **Se mejoró la pantalla "Mi galaxia", que se volvía difícil de ver cuando había muchas estrellas.** Las estrellas ahora son un poco más pequeñas y se distribuyen más, y las constelaciones que completes se pueden plegar en una pequeña figura de constelación. Toca una constelación plegada para volver a desplegarla cuando quieras.
+3. **Se corrigió un problema en la app de Windows por el cual algunas configuraciones de repetición no se guardaban al configurar la repetición de una tarea en el menú "Horario".**
+
+Gracias.
+
+---
+
 ## Compatibilidad con el chino — 2026-09-08
 
 Hola, soy el desarrollador de la app.
