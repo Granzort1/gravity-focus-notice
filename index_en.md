@@ -4,6 +4,22 @@ title: Update Notices
 
 # Update Notices
 
+## 2026-09-26 Update Notice
+
+Hello, I'm the app developer.
+
+Based on user feedback, this update lets you correct wake-up and bedtime records on past days, and fixes a number of bugs. The changes are included in **version 1.0.90**, so please update to the latest version.
+
+## Update Details
+
+1. **You can now change wake-up and bedtime times on past days in the "Timetable" menu.** Go to a past date and tap the time on the "Wake up" or "Sleep" item to change it. The new time applies only to that day's record — your wake-up and bedtime times from today onward stay the same.
+2. **You can now delete wake-up and bedtime items on past days if you want.** When a record doesn't match what actually happened — for example, on a day you went to bed after midnight — tap the item and choose "Delete". If you delete one by mistake, tap "Undo" at the bottom of the screen to bring it back.
+3. **Fixed various other bugs and improved the app's stability.**
+
+Thank you.
+
+---
+
 ## 2026-09-24 Update Notice
 
 Hello, I'm the app developer.

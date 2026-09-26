@@ -4,6 +4,22 @@ title: Avisos de actualización
 
 # Avisos de actualización
 
+## Aviso de actualización — 2026-09-26
+
+Hola, soy el desarrollador de la app.
+
+Gracias a los comentarios de los usuarios, esta actualización te permite corregir los registros de despertar y de dormir de días pasados, y corrige varios errores. Los cambios están incluidos en la **versión 1.0.90**, así que actualiza a la última versión.
+
+## Detalles de la actualización
+
+1. **Ahora puedes cambiar la hora de despertar y de dormir de días pasados en el menú "Horario".** Ve a una fecha pasada y toca la hora del elemento "Despertar" o "Dormir" para cambiarla. La nueva hora solo se aplica al registro de ese día; tus horas de despertar y de dormir a partir de hoy no cambian.
+2. **Ahora puedes eliminar, si quieres, los elementos de despertar y de dormir de días pasados.** Cuando un registro no coincida con lo que realmente pasó (por ejemplo, un día en que te acostaste después de medianoche), toca el elemento y elige "Eliminar". Si lo eliminas por error, toca "Deshacer" en la parte inferior de la pantalla para recuperarlo.
+3. **Se corrigieron otros errores y se mejoró la estabilidad de la app.**
+
+Gracias.
+
+---
+
 ## Aviso de actualización — 2026-09-24
 
 Hola, soy el desarrollador de la app.
