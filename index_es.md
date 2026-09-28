@@ -4,6 +4,28 @@ title: Avisos de actualización
 
 # Avisos de actualización
 
+## Aviso de actualización — 2026-09-28
+
+Hola, soy el desarrollador de la app.
+
+Gracias a los comentarios de los usuarios, esta actualización agrega la opción de mostrar la hora en formato de 12 horas (a. m./p. m.) y hace que los recordatorios y las subtareas de las tareas recurrentes se mantengan en los días siguientes. Los cambios están incluidos en la **versión 1.0.91**, así que actualiza a la última versión.
+
+## Detalles de la actualización
+
+1. **Ahora puedes mostrar la hora en formato de 12 horas (a. m./p. m.).** Elige "12 horas (a. m./p. m.)" en **Ajustes → Idioma y hora**, y las horas de toda la app, incluido el menú "Horario", así como el widget de la pantalla de inicio y el widget de horario semanal del escritorio de Windows, se mostrarán con a. m./p. m. Como hasta ahora, el formato predeterminado es de 24 horas.
+2. **Los recordatorios de las tareas recurrentes ahora se mantienen en los días siguientes.** Si activas la repetición en una tarea que tiene un recordatorio, ese mismo recordatorio se configura en cada repetición siguiente. Por ejemplo, "10 min antes" siempre te avisa 10 minutos antes del inicio, y una hora que elegiste tú, como las 9 de la noche del día anterior, se mantiene a la misma hora respecto a cada fecha. Los recordatorios que se repiten muestran la etiqueta "Se repite".
+3. **Si cambias el recordatorio o las subtareas en una fecha de una tarea recurrente, ahora puedes elegir dónde se aplica el cambio.** Al salir de la pantalla de la tarea, elige "Solo esta fecha" o "Todas las repeticiones desde hoy". Con "Todas las repeticiones desde hoy", el cambio también se aplica a las repeticiones a partir de hoy, y los registros pasados y las fechas que editaste por separado no cambian. Si lo elegiste por error, toca "Deshacer en repeticiones" en la parte inferior de la pantalla.
+4. **Quitamos la opción de eliminar los elementos de despertar y de dormir de días pasados.** Nos comentaron que era difícil recuperar un elemento eliminado por error. Puedes seguir cambiando la hora de despertar y de dormir de días pasados tocando el elemento. Los elementos que eliminaste en la versión anterior vuelven automáticamente cuando abres esa fecha de nuevo. Si tu apodo desapareció al restablecer la app para recuperar esos elementos, toca tu perfil en la parte superior de la pestaña "Más" y luego el botón del lápiz arriba a la derecha para volver a elegir tu apodo.
+5. **Se corrigieron otros errores y se mejoró la estabilidad de la app.**
+
+Si usas la app en varios dispositivos, actualízalos todos a la última versión para que los recordatorios que se repiten funcionen correctamente.
+
+Si algo no funciona bien o hay algo que te gustaría mejorar, escríbeme cuando quieras a [skadldh@gmail.com](mailto:skadldh@gmail.com). Haré todo lo posible por tener en cuenta tus comentarios y seguir mejorando la app.
+
+Gracias.
+
+---
+
 ## Aviso de actualización — 2026-09-26
 
 Hola, soy el desarrollador de la app.

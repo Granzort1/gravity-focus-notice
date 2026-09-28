@@ -4,6 +4,28 @@ title: Update Notices
 
 # Update Notices
 
+## 2026-09-28 Update Notice
+
+Hello, I'm the app developer.
+
+Based on user feedback, this update adds an option to show times in 12-hour format (AM/PM) and lets reminders and subtasks on recurring tasks carry over to the following days. The changes are included in **version 1.0.91**, so please update to the latest version.
+
+## Update Details
+
+1. **You can now show times in 12-hour format (AM/PM).** Choose "12-hour (AM/PM)" in **Settings → Language & time**, and times across the app, including the "Timetable" menu, as well as the home screen widget and the Windows weekly timetable desktop widget, will be shown in AM/PM. The default stays 24-hour, as before.
+2. **Reminders on recurring tasks now carry over to the following days.** When you turn on repeat for a task that has a reminder, the same reminder is set for every following repeat. For example, "10 min before" always reminds you 10 minutes before the start, and a time you picked yourself, such as 9 PM the day before, stays at the same time relative to each date. Repeating reminders show a "Repeats" label.
+3. **When you change the reminder or subtasks on one date of a recurring task, you can now choose where the change applies.** When you leave the task screen, choose "This date only" or "All repeats from today". With "All repeats from today", the change also applies to the repeats from today onward, while past records and dates you edited separately stay as they are. If you chose it by mistake, tap "Undo for repeats" at the bottom of the screen.
+4. **We removed the option to delete wake-up and bedtime items on past days.** We heard that an item deleted by mistake was hard to bring back. You can still change wake-up and bedtime times on past days by tapping the item. Items deleted in the previous version come back automatically when you open that date again. If your nickname disappeared when you reset the app to bring those items back, tap your profile at the top of the "More" tab, then tap the pencil button at the top right to set your nickname again.
+5. **Fixed various other bugs and improved the app's stability.**
+
+If you use the app on more than one device, please update all of them to the latest version so that repeating reminders work correctly.
+
+If anything isn't working well or there's something you'd like to see improved, please email me anytime at [skadldh@gmail.com](mailto:skadldh@gmail.com). I'll do my best to reflect your feedback and keep improving the app.
+
+Thank you.
+
+---
+
 ## 2026-09-26 Update Notice
 
 Hello, I'm the app developer.
