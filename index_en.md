@@ -4,6 +4,27 @@ title: Update Notices
 
 # Update Notices
 
+## 2026-09-30 Update Notice
+
+Hello, I'm the app developer.
+
+This update lets you see events from your phone's calendars, such as Google Calendar, in the "Schedule" menu, makes the comets on the "My Galaxy" screen a bit bigger, and lets you freely add tasks to past days. The changes are included in **version 1.0.93**, so please update to the latest version.
+
+## Update Details
+
+1. **You can now see events from your phone's calendars, such as Google Calendar, in the "Schedule" menu.** Tap "Connect" on the card that appears in the "Schedule" menu, or tap the calendar button to the right of "Upcoming", then allow calendar access. Events from the calendars synced to your phone appear in the calendar and in the "Upcoming" list. With the same calendar button, you can pick the calendars to show under "Calendars to show", or turn the connection off anytime with "Disconnect".
+2. **You can bring phone calendar events into the app.** Tap a phone calendar event and choose "Add to timetable" to add it as a task to that day's "Timetable" menu. Like your other tasks, it gets an app reminder before it starts. All-day events can be added to the "Schedule" menu with "Add to schedule (no time)". An added event is a copy, so it doesn't change when you edit the original in your phone calendar. If the original is changed or deleted, the app shows "Changed or deleted in your phone calendar". Phone calendar events on past days can be viewed but not added.
+3. **Connecting your phone calendar is available on Android only; the Windows app doesn't support it.** If you have sync turned on, events you added on Android also show up in the Windows app. The app only reads your phone calendar to show its events; it never changes or creates events in Google Calendar. If your Google Calendar events don't appear, check that calendar sync is on for your Google account in your phone's **Settings → Accounts**. If you use several Google accounts, the holidays registered in each account may show up more than once. In that case, turn off the extra holiday calendars under "Calendars to show" from the calendar button.
+4. **Comets on the "My Galaxy" screen are now a bit bigger.** After we made the stars easier to see, the comets looked too small, so we made the comets and their tails larger. A comet also looks bigger for a while right after you get it.
+5. **In the "Timetable" menu, you can now freely add tasks to past days and change their order.** Until now, on past days you could only check off, edit, or delete tasks, but we've removed that restriction. Go to a past date and tap the "+" button to add a task, and drag tasks without a set time to change their order. In the Windows app's weekly timetable, you can also click an empty time slot on a past day to add a task. Anything you add or edit on past days is kept as a record only, and the rewards you already got that day don't change.
+6. **Fixed various other bugs and improved the app's stability.**
+
+If anything isn't working well or there's something you'd like to see improved, please email me anytime at [skadldh@gmail.com](mailto:skadldh@gmail.com). I'll do my best to reflect your feedback and keep improving the app.
+
+Thank you.
+
+---
+
 ## 2026-09-28 Update Notice
 
 Hello, I'm the app developer.

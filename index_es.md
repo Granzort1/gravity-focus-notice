@@ -4,6 +4,27 @@ title: Avisos de actualización
 
 # Avisos de actualización
 
+## Aviso de actualización — 2026-09-30
+
+Hola, soy el desarrollador de la app.
+
+Esta actualización te permite ver en el menú "Agenda" los eventos de los calendarios de tu teléfono, como Google Calendar, hace un poco más grandes los cometas de la pantalla "Mi galaxia" y te permite añadir tareas libremente a días pasados. Los cambios están incluidos en la **versión 1.0.93**, así que actualiza a la última versión.
+
+## Detalles de la actualización
+
+1. **Ahora puedes ver en el menú "Agenda" los eventos de los calendarios de tu teléfono, como Google Calendar.** Toca "Conectar" en la tarjeta que aparece en el menú "Agenda", o toca el botón de calendario a la derecha de "Próximos", y permite el acceso al calendario. Los eventos de los calendarios sincronizados en tu teléfono se muestran en el calendario y en la lista "Próximos". Con el mismo botón de calendario puedes elegir qué calendarios mostrar en "Calendarios que se muestran", o desactivar la conexión cuando quieras con "Desconectar".
+2. **Puedes pasar los eventos del calendario del teléfono a la app.** Toca un evento del calendario del teléfono y elige "Añadir al horario" para añadirlo como tarea al menú "Horario" de ese día. Como tus demás tareas, recibirá un aviso de la app antes de empezar. Los eventos de todo el día se pueden añadir al menú "Agenda" con "Añadir a la agenda (sin hora)". El evento añadido es una copia, así que no cambia si editas el original en el calendario del teléfono. Si el original se cambia o se elimina, la app muestra "Se cambió o eliminó en el calendario del teléfono". Los eventos del calendario del teléfono de días pasados se pueden ver, pero no añadir.
+3. **La conexión con el calendario del teléfono solo está disponible en Android; la app de Windows no la admite.** Si tienes la sincronización activada, los eventos que añadiste en Android también aparecen en la app de Windows. La app solo lee el calendario de tu teléfono para mostrar sus eventos; nunca cambia ni crea eventos en Google Calendar. Si no ves tus eventos de Google Calendar, comprueba que la sincronización del calendario esté activada para tu cuenta de Google en **Ajustes → Cuentas** del teléfono. Si usas varias cuentas de Google, los días festivos registrados en cada cuenta pueden aparecer repetidos. En ese caso, desactiva los calendarios de festivos que sobren en "Calendarios que se muestran" desde el botón de calendario.
+4. **Los cometas de la pantalla "Mi galaxia" ahora son un poco más grandes.** Después de hacer que las estrellas se vieran mejor, los cometas parecían demasiado pequeños, así que agrandamos los cometas y sus colas. Además, un cometa se ve más grande durante un rato justo después de conseguirlo.
+5. **En el menú "Horario", ahora puedes añadir tareas libremente a días pasados y cambiar su orden.** Hasta ahora, en días pasados solo podías marcar como completadas, editar o eliminar tareas, pero quitamos esa restricción. Ve a una fecha pasada y toca el botón "+" para añadir una tarea, y arrastra las tareas sin hora fija para cambiar su orden. En el horario semanal de la app de Windows, también puedes hacer clic en un espacio de hora vacío de un día pasado para añadir una tarea. Lo que añadas o edites en días pasados se guarda solo como registro, y las recompensas que ya recibiste ese día no cambian.
+6. **Se corrigieron otros errores y se mejoró la estabilidad de la app.**
+
+Si algo no funciona bien o hay algo que te gustaría mejorar, escríbeme cuando quieras a [skadldh@gmail.com](mailto:skadldh@gmail.com). Haré todo lo posible por tener en cuenta tus comentarios y seguir mejorando la app.
+
+Gracias.
+
+---
+
 ## Aviso de actualización — 2026-09-28
 
 Hola, soy el desarrollador de la app.
