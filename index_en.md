@@ -4,6 +4,33 @@ title: Update Notices
 
 # Update Notices
 
+## 2026-10-07 Update Notice
+
+Hello, I'm the app developer.
+
+This update adds "Plan my day, step by step", which walks you through planning your day, and a "How to use the timetable" guide. It also keeps the constellations you unfold on the "My Galaxy" screen unfolded the next time you open it. The changes are included in **version 1.0.97**, so please update to the latest version.
+
+## Update Details
+
+1. **We added "Help" to the "More" menu.** Tap "Plan my day, step by step" to plan your day in four steps: fixed appointments → time for yourself, like meals, exercise and breaks → turning one task into a small first step you can start right away → a quick look over the whole day. Everything you add is saved to your "Timetable" right away, you can undo each item, and what you've added stays even if you close partway through. "How to use the timetable" shows a short guide to planning your day and a sample day. You can find both in the same place in the Windows app.
+2. **"Plan my day, step by step" also appears in the "Timetable" menu when it can help.** On a day with no tasks, it appears below the buttons that add common tasks with one tap. On a day with fewer than three tasks that have a set time, it appears in your task list. In the evening, if tomorrow is still empty, it shows as "Plan tomorrow, step by step". If you've just started using the app, it appears after you complete your first task.
+3. **We added an example and a "Why split it?" guide to "Split", which breaks a task into smaller steps.** When a task has no subtasks yet, an example appears under "Split", and tapping "Why split it?" shows how to turn a task that feels stuck into a small action you can do right away.
+4. **Constellations you unfold on the "My Galaxy" screen now stay unfolded the next time you open it.** Tap a folded constellation and choose "Unfold", and it stays unfolded even after you leave the galaxy screen and come back. An unfolded constellation doesn't fold up again even when new stars complete it again. To fold it again, tap one of its stars and choose "Fold [name] again". The unfolded state is saved separately on each device.
+5. **We made small improvements to the app's overall design.** Fonts, colors, buttons and spacing have been polished so screens look cleaner and are easier to read.
+6. **Fixed various other bugs and improved the app's stability.**
+
+## About a question we received
+
+We received a question asking to see schedule items in the "Timetable" menu as well. The "Schedule" menu is built for longer-range plans, like things that span several days or deadlines, and the "Timetable" menu is built for short-range plans that divide today into blocks of time. We kept them separate on purpose because we believe managing them separately is more helpful, so showing schedule items in the "Timetable" menu would be difficult for now.
+
+Instead, when you add or edit an item in the "Schedule" menu, add a "Time", and the item moves to that day's "Timetable" menu, where it shows up with your other tasks. If there's a schedule item you want to keep track of in that day's timetable, please use this feature. (You can add a time to one-day items dated today or later.)
+
+If anything isn't working well or there's something you'd like to see improved, please email me anytime at [skadldh@gmail.com](mailto:skadldh@gmail.com). I'll do my best to reflect your feedback and keep improving the app.
+
+Thank you.
+
+---
+
 ## 2026-09-30 Update Notice
 
 Hello, I'm the app developer.

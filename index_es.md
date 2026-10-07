@@ -4,6 +4,33 @@ title: Avisos de actualización
 
 # Avisos de actualización
 
+## Aviso de actualización — 2026-10-07
+
+Hola, soy el desarrollador de la app.
+
+Esta actualización añade "Planificar paso a paso", que te acompaña al planificar tu día, y una guía "Cómo usar el horario". Además, las constelaciones que despliegues en la pantalla "Mi galaxia" siguen desplegadas la próxima vez que la abras. Los cambios están incluidos en la **versión 1.0.97**, así que actualiza a la última versión.
+
+## Detalles de la actualización
+
+1. **Añadimos "Ayuda" al menú "Más".** Toca "Planificar paso a paso" para planificar tu día en cuatro pasos: citas fijas → tiempo para ti, como comidas, ejercicio y descansos → convertir un pendiente en un primer paso pequeño que puedas empezar ya → un repaso rápido de todo el día. Todo lo que añades se guarda al instante en tu "Horario", puedes deshacer cada elemento y lo que hayas añadido se mantiene aunque cierres a mitad de camino. En "Cómo usar el horario" verás una guía breve para planificar tu día y un día de ejemplo. En la app de Windows los encontrarás en el mismo lugar.
+2. **"Planificar paso a paso" también aparece en el menú "Horario" cuando puede ayudar.** Un día sin tareas, aparece debajo de los botones que añaden tareas habituales con un toque. Un día con menos de tres tareas con hora, aparece en tu lista de tareas. Por la noche, si mañana sigue vacío, se muestra como "Planifica mañana paso a paso". Si acabas de empezar a usar la app, aparece después de completar tu primera tarea.
+3. **Añadimos un ejemplo y la guía "¿Por qué dividir?" a "Dividir", que separa una tarea en pasos más pequeños.** Cuando una tarea aún no tiene subtareas, aparece un ejemplo debajo de "Dividir", y al tocar "¿Por qué dividir?" verás cómo convertir una tarea que abruma en una acción pequeña que puedas hacer ya.
+4. **Las constelaciones que despliegas en la pantalla "Mi galaxia" ahora siguen desplegadas la próxima vez que la abras.** Toca una constelación plegada y elige "Desplegar": seguirá desplegada aunque salgas de la galaxia y vuelvas. Una constelación desplegada no se vuelve a plegar aunque nuevas estrellas la completen otra vez. Para plegarla de nuevo, toca una de sus estrellas y elige "Volver a plegar". El estado desplegado se guarda por separado en cada dispositivo.
+5. **Se mejoró ligeramente el diseño general de la app.** Se pulieron las fuentes, los colores, los botones y los espacios para que las pantallas se vean más limpias y sean más fáciles de leer.
+6. **Se corrigieron otros errores y se mejoró la estabilidad de la app.**
+
+## Sobre una consulta que recibimos
+
+Recibimos una consulta pidiendo ver los elementos de la agenda también en el menú "Horario". El menú "Agenda" está pensado para planes a más largo plazo, como cosas que duran varios días o fechas límite, y el menú "Horario" para planes a corto plazo que dividen el día de hoy en bloques de tiempo. Los separamos a propósito porque creemos que gestionarlos por separado ayuda más, así que por ahora sería difícil mostrar los elementos de la agenda en el menú "Horario".
+
+En su lugar, al añadir o editar un elemento en el menú "Agenda", ponle una "Hora" y pasará al menú "Horario" de ese día, donde aparecerá junto a tus demás tareas. Si hay un elemento de la agenda que quieras tener presente en el horario de ese día, usa esta función. (Puedes poner hora a elementos de un solo día, de hoy en adelante.)
+
+Si algo no funciona bien o hay algo que te gustaría mejorar, escríbeme cuando quieras a [skadldh@gmail.com](mailto:skadldh@gmail.com). Haré todo lo posible por tener en cuenta tus comentarios y seguir mejorando la app.
+
+Gracias.
+
+---
+
 ## Aviso de actualización — 2026-09-30
 
 Hola, soy el desarrollador de la app.
