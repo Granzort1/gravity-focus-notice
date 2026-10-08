@@ -6,6 +6,12 @@ title: Avisos de actualización
 
 ## Aviso de actualización — 2026-10-07
 
+> **[Aviso de corrección urgente]**
+>
+> En la versión 1.0.97 detectamos un problema en la pantalla de detalles de una tarea del menú "Horario": al ajustar la hora de inicio y de fin, la hora seleccionada queda tapada y no se ve bien. El mismo problema aparece al elegir la hora de un "Recordatorio" y en la pantalla "Elegir hora" del menú "Agenda", y lo estamos corrigiendo todo a la vez.
+>
+> Tenemos previsto publicar la versión corregida hoy (8 de octubre) o, como muy tarde, mañana (9 de octubre). Mientras tanto, comprueba la hora que ajustaste a la derecha de "Hora" en la pantalla de detalles de la tarea. Disculpa las molestias.
+
 Hola, soy el desarrollador de la app.
 
 Esta actualización añade "Planificar paso a paso", que te acompaña al planificar tu día, y una guía "Cómo usar el horario". Además, las constelaciones que despliegues en la pantalla "Mi galaxia" siguen desplegadas la próxima vez que la abras. Los cambios están incluidos en la **versión 1.0.97**, así que actualiza a la última versión.

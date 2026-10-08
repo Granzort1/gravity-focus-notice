@@ -6,6 +6,12 @@ title: Update Notices
 
 ## 2026-10-07 Update Notice
 
+> **[Urgent fix notice]**
+>
+> In version 1.0.97, we found a problem on the task details screen in the "Timetable" menu: when you set the start and end times, the selected time is covered up and can't be seen properly. The same problem also appears when you pick a time for a "Reminder" and on the "Pick a time" screen in the "Schedule" menu, and we're fixing them all together.
+>
+> We plan to release the fixed version today (October 8) or tomorrow (October 9) at the latest. Until then, please check the time you set to the right of "Time" on the task details screen. We're sorry for the inconvenience.
+
 Hello, I'm the app developer.
 
 This update adds "Plan my day, step by step", which walks you through planning your day, and a "How to use the timetable" guide. It also keeps the constellations you unfold on the "My Galaxy" screen unfolded the next time you open it. The changes are included in **version 1.0.97**, so please update to the latest version.
