@@ -4,6 +4,25 @@ title: Update Notices
 
 # Update Notices
 
+## 2026-10-18 Update Notice
+
+Hello, I'm the app developer.
+
+This update improves how the blocks before wake-up and after bedtime are placed in the "Timetable", keeps your completed constellations from being distorted, and fixes early-morning reminders that didn't go off when your bedtime is past midnight, along with some text that was getting cut off. The changes are included in **version 1.0.99**, so please update to the latest version.
+
+## Update Details
+
+1. **In the "Timetable", blocks earlier than your wake-up time now sit above the wake-up block, and blocks later than your bedtime sit below the bedtime block.** Before, wake-up and bedtime were always pinned to the very top and bottom.
+2. **Even as you collect more stars, the shapes of completed constellations on the "My Galaxy" screen no longer get squashed or distorted.**
+3. **Fixed a problem where, when your bedtime is past midnight, reminders for blocks in the early-morning hours didn't go off.**
+4. **Fixed places where some text was cut off with large text settings, on small screens, or in landscape mode (date range settings, task details, the "Schedule" calendar, the settings screen, and more).**
+
+If anything isn't working well or there's something you'd like to see improved, please email me anytime at [skadldh@gmail.com](mailto:skadldh@gmail.com). I'll do my best to reflect your feedback and keep improving the app.
+
+Thank you.
+
+---
+
 ## 2026-10-07 Update Notice
 
 > **[Urgent fix notice]**

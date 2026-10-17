@@ -4,6 +4,25 @@ title: Avisos de actualización
 
 # Avisos de actualización
 
+## Aviso de actualización — 2026-10-18
+
+Hola, soy el desarrollador de la app.
+
+Esta actualización mejora el orden de los bloques anteriores a despertar y posteriores a dormir en el "Horario", evita que las constelaciones completadas se deformen y corrige los recordatorios de la madrugada que no sonaban cuando tu hora de dormir pasa de medianoche, además de algunos textos que se cortaban. Los cambios están incluidos en la **versión 1.0.99**, así que actualiza a la última versión.
+
+## Detalles de la actualización
+
+1. **En el "Horario", los bloques anteriores a tu hora de despertar ahora se colocan encima del bloque de despertar, y los posteriores a tu hora de dormir, debajo del bloque de dormir.** Antes, despertar y dormir estaban siempre fijos arriba y abajo del todo.
+2. **Aunque reúnas más estrellas, las constelaciones completadas de la pantalla "Mi galaxia" ya no se ven apretadas ni deformadas.**
+3. **Corregimos un problema por el que, cuando tu hora de dormir pasa de medianoche, los recordatorios de los bloques de la madrugada no sonaban.**
+4. **Ajustamos lugares donde parte del texto se cortaba con la letra grande, en pantallas pequeñas o en modo horizontal (ajuste del período de fechas, detalles de la tarea, el calendario de la "Agenda", la pantalla de ajustes, etc.).**
+
+Si algo no funciona bien o hay algo que te gustaría mejorar, escríbeme cuando quieras a [skadldh@gmail.com](mailto:skadldh@gmail.com). Haré todo lo posible por tener en cuenta tus comentarios y seguir mejorando la app.
+
+Gracias.
+
+---
+
 ## Aviso de actualización — 2026-10-07
 
 > **[Aviso de corrección urgente]**
