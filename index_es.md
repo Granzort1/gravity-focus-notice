@@ -4,6 +4,18 @@ title: Avisos de actualización
 
 # Avisos de actualización
 
+## Aviso de actualización — 2026-10-19
+
+Hola, soy el desarrollador de la app.
+
+Esta actualización mejora ligeramente la guía de uso del menú "Horario" que se muestra a quienes usan la app por primera vez. El cambio está incluido en la **versión 1.0.100**, así que actualiza a la última versión.
+
+Si algo no funciona bien o hay algo que te gustaría mejorar, escríbeme cuando quieras a [skadldh@gmail.com](mailto:skadldh@gmail.com). Haré todo lo posible por tener en cuenta tus comentarios y seguir mejorando la app.
+
+Gracias.
+
+---
+
 ## Aviso de actualización — 2026-10-18
 
 Hola, soy el desarrollador de la app.

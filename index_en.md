@@ -4,6 +4,18 @@ title: Update Notices
 
 # Update Notices
 
+## 2026-10-19 Update Notice
+
+Hello, I'm the app developer.
+
+This update slightly improves the guide to using the "Timetable" menu that is shown to first-time users. The change is included in **version 1.0.100**, so please update to the latest version.
+
+If anything isn't working well or there's something you'd like to see improved, please email me anytime at [skadldh@gmail.com](mailto:skadldh@gmail.com). I'll do my best to reflect your feedback and keep improving the app.
+
+Thank you.
+
+---
+
 ## 2026-10-18 Update Notice
 
 Hello, I'm the app developer.
