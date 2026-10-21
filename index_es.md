@@ -4,6 +4,52 @@ title: Avisos de actualización
 
 # Avisos de actualización
 
+## Aviso de actualización — 2026-10-21
+
+Hola, soy el desarrollador de la app.
+
+Esta actualización te permite desactivar la primera línea de tu diario que aparece al abrir una caja de recompensa, te da una estrella al instante cuando terminas algo durante una lluvia de meteoros y añade un efecto de lluvia de meteoros a la pantalla "Mi galaxia". Los cambios están incluidos en la **versión 1.0.101**, así que actualiza a la última versión.
+
+## Detalles de la actualización
+
+1. **Ahora puedes hacer que la primera línea de tu diario no aparezca en las cajas de recompensa.** Al abrir una caja, a veces aparece la primera línea del diario de ese día en la tarjeta "Una nota que escribiste ayer". Si prefieres no verla, ahora puedes desactivarla. Consulta los pasos en "Cómo desactivar tu diario en las cajas de recompensa", más abajo.
+2. **Durante una lluvia de meteoros, lo primero que terminas cada día te da una estrella al instante.** Durante tres días, desde el día anterior al pico de la lluvia de meteoros hasta el día siguiente, la primera vez que cada día completes una tarea, una subtarea o una rutina, o termines un Pomodoro, aparecerá una estrella en "Mi galaxia" al momento, sin esperar a la caja del día siguiente. Puedes conseguir una por día y hasta tres por lluvia de meteoros, y la estrella se queda aunque deshagas la tarea completada. Debes haber iniciado sesión, y completar tareas de fechas pasadas no cuenta. Las próximas lluvias de meteoros son las Leónidas (del 16 al 18 de noviembre) y las Gemínidas (del 12 al 14 de diciembre).
+3. **Al abrir "Mi galaxia" durante una lluvia de meteoros, cae una lluvia de meteoros.** Las estrellas nuevas que aún no has visto en tu galaxia bajan como meteoros dorados y se colocan en su sitio. Toca el cielo una vez para saltar el efecto (en la app de Windows también puedes pulsar Esc). Durante una lluvia de meteoros, aparece un punto en el icono de estrella de la parte superior de la pantalla "Horario" si hoy aún no has abierto tu galaxia o si hay estrellas nuevas esperando para bajar. Si prefieres no ver el efecto, desactiva "Efectos de eventos astronómicos" en "Más" › "Preferencias" › "Notificaciones". Solo se desactiva el efecto: seguirás recibiendo las estrellas de la lluvia de meteoros.
+4. **Pulimos los mensajes de ánimo, los resúmenes de tus registros y los avisos de fragmentos de cometa dentro de las cajas de recompensa para que se lean con más naturalidad.**
+
+## Cómo desactivar tu diario en las cajas de recompensa
+
+Creamos esta función después de saber que hay momentos en los que no quieres volver a encontrarte en la caja del día siguiente el diario de un día difícil. Viene activada de forma predeterminada y puedes desactivarla de cualquiera de estas dos maneras.
+
+**Opción 1. Desactivarla directamente desde la caja**
+
+1. Cuando, al abrir una caja, aparezca la tarjeta "Una nota que escribiste ayer", toca **"Dejar de mostrar mi diario en las cajas"** debajo de la frase.
+2. La frase se oculta al instante y verás "Tu diario ya no aparecerá en las cajas". A partir de ese momento, tu diario no aparecerá en las cajas que abras.
+3. Si lo tocaste por error, toca **"Deshacer"** en la misma tarjeta para volver a activarla. "Deshacer" solo está disponible mientras se muestra esa tarjeta; si ya pasaste a la siguiente caja o cerraste la pantalla de la caja, vuelve a activarla con la opción 2.
+
+**Opción 2. Activarla o desactivarla en los ajustes**
+
+1. Abre la pestaña **"Más"**.
+2. En **"Preferencias"**, desactiva el interruptor **"Mostrar mi diario en las cajas de recompensa"**. Si quieres volver a verlo, activa el mismo interruptor.
+3. Está en el mismo lugar en la app de Windows. Si no has iniciado sesión, no recibes cajas, así que este interruptor no se muestra.
+
+**Lo que cambia aunque no toques el ajuste**
+
+- Los diarios de los días en que marcaste tu estado de ánimo como **"Mal"** o **"Muy mal"** nunca aparecen en las cajas, aunque el interruptor esté activado.
+- El diario de un mismo día aparece en una caja solo una vez, así que la misma frase no se repetirá en varias cajas.
+- Mientras tu diario no se muestre, seguirás recibiendo cajas como siempre, y en su lugar habrá otro regalo (un resumen de tus registros, un mensaje de ánimo, un fragmento de cometa, etc.).
+- Los registros de las cajas abiertas ya no guardan una copia de la frase de tu diario, y las frases guardadas de cajas que abriste antes se borran la primera vez que abres la app después de actualizarla. (Sin embargo, la app no puede borrar el contenido de las copias de seguridad que hayas exportado tú antes).
+
+**Si usas un teléfono y un PC**
+
+Si los sincronizas con la misma cuenta, al desactivarla en un dispositivo se aplicará al otro en la siguiente sincronización. Los dos dispositivos necesitan la versión 1.0.101 o posterior. En un dispositivo sin actualizar, tu diario puede seguir apareciendo en las cajas, así que actualiza ambos.
+
+Si algo no funciona bien o hay algo que te gustaría mejorar, escríbeme cuando quieras a [skadldh@gmail.com](mailto:skadldh@gmail.com). Haré todo lo posible por tener en cuenta tus comentarios y seguir mejorando la app.
+
+Gracias.
+
+---
+
 ## Aviso de actualización — 2026-10-19
 
 Hola, soy el desarrollador de la app.

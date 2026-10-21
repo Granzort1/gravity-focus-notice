@@ -4,6 +4,52 @@ title: Update Notices
 
 # Update Notices
 
+## 2026-10-21 Update Notice
+
+Hello, I'm the app developer.
+
+This update lets you turn off the first line of your diary that appears when you open a reward box, gives you a star right away when you finish something during a meteor shower, and adds a meteor shower effect to the "My Galaxy" screen. The changes are included in **version 1.0.101**, so please update to the latest version.
+
+## Update Details
+
+1. **You can now stop the first line of your diary from appearing in reward boxes.** When you open a box, the first line of that day's diary sometimes appears on an "A note from yesterday" card. If you'd rather not see it, you can now turn it off. See "How to turn off your diary in reward boxes" below for the steps.
+2. **During a meteor shower, the first thing you finish each day gives you a star right away.** For three days, from the day before the meteor shower's peak to the day after, the first time each day that you complete a task, subtask, or routine, or finish a Pomodoro, a star appears in "My Galaxy" right away, without waiting for the next day's box. You can get one per day and up to three per meteor shower, and the star stays even if you undo the completion. You need to be signed in, and completing tasks on past dates doesn't count. The upcoming meteor shower periods are the Leonids (November 16–18) and the Geminids (December 12–14).
+3. **When you open "My Galaxy" during a meteor shower, a meteor shower falls.** Any new stars you haven't seen in your galaxy yet come down as golden meteors and settle into their places. Tap the sky once to skip the effect (in the Windows app, you can also press Esc). During a meteor shower, a dot appears on the star icon at the top of the "Timetable" screen if you haven't opened your galaxy yet today or if new stars are waiting to come down. If you'd rather not see the effect, turn off "Astronomy event effects" in "More" › "Preferences" › "Notifications". Only the effect turns off, and you'll still get meteor shower stars.
+4. **We polished the cheer messages, record summaries, and comet fragment notes inside reward boxes so they read more naturally.**
+
+## How to turn off your diary in reward boxes
+
+We made this feature after hearing that there are times you don't want to come across a diary from a hard day again in the next day's box. It's on by default, and you can turn it off in either of the two ways below.
+
+**Option 1. Turn it off right from the box**
+
+1. When an "A note from yesterday" card appears after you open a box, tap **"Stop showing my diary in boxes"** below the line.
+2. The line is hidden right away, and you'll see "Your diary won't appear in boxes anymore." From then on, your diary won't appear in the boxes you open.
+3. If you tapped it by mistake, tap **"Undo"** on the same card to turn it back on. "Undo" is only there while that card is showing, so once you move on to the next box or close the box screen, use Option 2 to turn it back on.
+
+**Option 2. Turn it on or off in settings**
+
+1. Open the **"More"** tab.
+2. Under **"Preferences"**, turn off the **"Show my diary in reward boxes"** switch. If you want to see it again, just turn the same switch back on.
+3. It's in the same place in the Windows app. If you're not signed in, you don't receive boxes, so this switch isn't shown.
+
+**What changed even if you don't touch the setting**
+
+- Diaries from days you marked your mood as **"Low"** or **"Very low"** never appear in boxes, even when the switch is on.
+- A diary from the same day appears in a box only once, so the same line won't keep showing up across several boxes.
+- While your diary isn't shown, you still get boxes as usual, and another gift (a record summary, a cheer message, a comet fragment, and so on) takes its place.
+- Opened box records no longer store a copy of your diary line, and lines saved from boxes you opened before are erased the first time you open the app after updating. (However, the app can't erase anything inside backup files you exported yourself earlier.)
+
+**If you use both a phone and a PC**
+
+If you sync them with the same account, turning it off on one device applies to the other at the next sync. Both devices need version 1.0.101 or later. A device that hasn't been updated may keep showing your diary in boxes, so please update both.
+
+If anything isn't working well or there's something you'd like to see improved, please email me anytime at [skadldh@gmail.com](mailto:skadldh@gmail.com). I'll do my best to reflect your feedback and keep improving the app.
+
+Thank you.
+
+---
+
 ## 2026-10-19 Update Notice
 
 Hello, I'm the app developer.
