@@ -4,6 +4,24 @@ title: Avisos de actualización
 
 # Avisos de actualización
 
+## Aviso de actualización — 2026-11-01
+
+Hola, soy el desarrollador de la app.
+
+Esta actualización mejora la pantalla "Planificar paso a paso" y corrige algunos problemas. Los cambios están incluidos en la **versión 1.0.102**, así que actualiza a la última versión.
+
+## Detalles de la actualización
+
+1. **Hicimos más agradable la pantalla "Planificar paso a paso".** Una barra de progreso muestra en qué paso estás, y ahora verás "Con agregar solo uno ya es suficiente." En el "Horario" solo aparece los días con pocas tareas; si no lo ves, inícialo desde **"Más"** › **"Ayuda"** › **"Planificar paso a paso"**.
+2. **Corregimos los casos en que el Pomodoro y el "Horario" no coincidían en las tareas completadas y los registros de concentración.**
+3. **Corregimos un problema por el que, al cambiar tu hora de despertar a partir de mañana o de una fecha posterior, la hora para abrir la caja de recompensa y su notificación no seguían la nueva hora de despertar.**
+
+Si algo no funciona bien o hay algo que te gustaría mejorar, escríbeme cuando quieras a [skadldh@gmail.com](mailto:skadldh@gmail.com). Haré todo lo posible por tener en cuenta tus comentarios y seguir mejorando la app.
+
+Gracias.
+
+---
+
 ## Aviso de actualización — 2026-10-21
 
 Hola, soy el desarrollador de la app.

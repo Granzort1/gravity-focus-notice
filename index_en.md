@@ -4,6 +4,24 @@ title: Update Notices
 
 # Update Notices
 
+## 2026-11-01 Update Notice
+
+Hello, I'm the app developer.
+
+This update polishes the "Plan my day, step by step" screen and fixes a few issues. The changes are included in **version 1.0.102**, so please update to the latest version.
+
+## Update Details
+
+1. **We made the "Plan my day, step by step" screen friendlier.** A progress bar shows which step you're on, and you'll now see "Adding just one is enough." It appears in the "Timetable" only on days with few tasks, so if you don't see it, start it from **"More"** › **"Help"** › **"Plan my day, step by step"**.
+2. **We fixed cases where Pomodoro and the "Timetable" didn't agree on completed tasks and focus records.**
+3. **We fixed an issue where, after you changed your wake-up time starting from tomorrow or a later date, the time you could open your reward box and its notification didn't follow the new wake-up time.**
+
+If anything isn't working well or there's something you'd like to see improved, please email me anytime at [skadldh@gmail.com](mailto:skadldh@gmail.com). I'll do my best to reflect your feedback and keep improving the app.
+
+Thank you.
+
+---
+
 ## 2026-10-21 Update Notice
 
 Hello, I'm the app developer.
