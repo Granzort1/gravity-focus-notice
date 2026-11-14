@@ -4,6 +4,24 @@ title: Update Notices
 
 # Update Notices
 
+## 2026-11-14 Update Notice
+
+Hello, I'm the app developer.
+
+This update lets you see your routines in the "Timetable", adds a "Timeline" view that shows your day as time blocks, and lets you hide the wake-up and bedtime rows. The changes are included in **version 1.0.103**, so please update to the latest version.
+
+## Update Details
+
+1. **Today's routines now appear in the "Timetable", and you can check them off right there.** A routine with "Daily Reminder" turned on is placed at its reminder time, which is treated as the time you do that routine. A routine with the reminder off is placed right below your wake-up row. To leave a routine out of the timetable, tap **"⋯"** › **"Hide from timetable"** on its row, or turn off **"Show in timetable"** on that routine's edit screen in the "Routine" tab.
+2. **You can now view the "Timetable" as a timeline (Android app).** Tap **"Timeline"** on the **"List \| Timeline"** button to the right of "Today's tasks", and tasks with a set time are laid out on an hourly grid of your day as blocks matching their length. Tap a block to complete or edit the task, and tap an empty time, then tap it once more, to add a task at that time.
+3. **You can now hide the wake-up and bedtime rows in the "Timetable".** We added this in response to your feedback. Go to **"More"** › **"Advanced settings"** and turn off the **"Show wake-up time"** and **"Show bedtime"** switches. Your wake-up time and bedtime still apply even when the rows are hidden. The "Show my diary in reward boxes" switch mentioned in an earlier notice has also moved here.
+
+If anything isn't working well or there's something you'd like to see improved, please email me anytime at [skadldh@gmail.com](mailto:skadldh@gmail.com). I'll do my best to reflect your feedback and keep improving the app.
+
+Thank you.
+
+---
+
 ## 2026-11-01 Update Notice
 
 Hello, I'm the app developer.

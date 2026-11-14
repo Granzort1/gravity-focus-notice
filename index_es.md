@@ -4,6 +4,24 @@ title: Avisos de actualización
 
 # Avisos de actualización
 
+## Aviso de actualización — 2026-11-14
+
+Hola, soy el desarrollador de la app.
+
+Esta actualización te permite ver tus rutinas en el "Horario", añade la vista "Cronograma", que muestra tu día en bloques de tiempo, y te permite ocultar las filas de despertar y dormir. Los cambios están incluidos en la **versión 1.0.103**, así que actualiza a la última versión.
+
+## Detalles de la actualización
+
+1. **Las rutinas de hoy ahora aparecen en el "Horario" y puedes marcarlas ahí mismo.** Una rutina con "Recordatorio diario" activado se coloca en la hora de su recordatorio, que se toma como la hora en que haces esa rutina. Una rutina con el recordatorio desactivado se coloca justo debajo de la fila de despertar. Para quitar una rutina del horario, toca **"⋯"** › **"Ocultar del horario"** en su fila, o desactiva **"Mostrar en el horario"** en la pantalla de edición de esa rutina, en la pestaña "Rutina".
+2. **Ahora puedes ver el "Horario" como cronograma (app de Android).** Toca **"Cronograma"** en el botón **"Lista \| Cronograma"**, a la derecha de "Pendientes de hoy", y las tareas con hora se colocan sobre una cuadrícula con las horas del día, como bloques tan largos como la tarea. Toca un bloque para completar o editar la tarea, y toca una hora libre y luego una vez más para agregar una tarea a esa hora.
+3. **Ahora puedes ocultar las filas de despertar y dormir del "Horario".** Lo añadimos gracias a los comentarios que nos enviaron. Ve a **"Más"** › **"Ajustes avanzados"** y desactiva los interruptores **"Mostrar hora de despertar"** y **"Mostrar hora de dormir"**. Tu hora de despertar y tu hora de dormir se siguen aplicando aunque las filas estén ocultas. El interruptor "Mostrar mi diario en las cajas de recompensa", mencionado en un aviso anterior, también se movió aquí.
+
+Si algo no funciona bien o hay algo que te gustaría mejorar, escríbeme cuando quieras a [skadldh@gmail.com](mailto:skadldh@gmail.com). Haré todo lo posible por tener en cuenta tus comentarios y seguir mejorando la app.
+
+Gracias.
+
+---
+
 ## Aviso de actualización — 2026-11-01
 
 Hola, soy el desarrollador de la app.
