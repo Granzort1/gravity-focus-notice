@@ -4,6 +4,29 @@ title: Avisos de actualización
 
 # Avisos de actualización
 
+## Aviso de actualización — 2026-11-18
+
+Hola, soy el desarrollador de la app.
+
+A partir de los comentarios que nos enviaron, esta actualización te permite cambiar el nombre de las subtareas, agregar notas a las tareas y elegir el día en que empieza tu semana, entre otras novedades, y corrige algunos problemas. Los cambios están incluidos en la **versión 1.0.104**, así que actualiza a la última versión.
+
+## Detalles de la actualización
+
+1. **En el menú "Horario", ahora puedes editar las subtareas creadas con "Dividir".** Toca una tarea (en el horario semanal de la app de Windows, haz clic derecho) para abrir su pantalla de detalles y luego toca el nombre de una subtarea para editarlo ahí mismo. Cuando termines, pulsa Listo (Enter) en el teclado o toca **"✓"** arriba para guardarlo.
+2. **En el menú "Horario", ahora puedes agregar notas a las tareas.** Escribe en el campo **"Nota"** de la pantalla de detalles de la tarea y aparecerá un ícono de nota junto a su título en la lista del "Horario".
+3. **Ahora puedes elegir el primer día de la semana del menú "Horario".** Elige un día en **"Más"** › **"Apariencia e idioma"** › **"La semana empieza el"**, y los calendarios y las pantallas semanales (incluidos los widgets de escritorio de Windows) empezarán ese día. Al principio está en **"Predeterminado"** (igual que antes), y se ajusta por separado en cada dispositivo.
+4. **Ahora puedes anotar los pensamientos de ese día desde tu diario.** En la pantalla para escribir el diario, toca **"Anotar un pensamiento de este día"** para abrir esa fecha en "Descarga mental". En las semanas en que ya usaste las entradas gratuitas del diario, el mismo botón también aparece en los días vacíos del calendario del diario.
+5. **Las subtareas ahora se despliegan bien en el widget grande de la pantalla de inicio (app de Android).** Toca **"▾"** junto a una tarea para desplegar sus subtareas. Corregimos un problema por el que no aparecían, o solo aparecían algunas, cuando las tareas y subtareas sumaban más de 20.
+6. **Corregimos un problema por el que, en la fila de fechas de la parte superior del "Horario", faltaban los puntos de los días con tareas completadas en algunas fechas, como los domingos.**
+
+Esta actualización nació de los comentarios que nos enviaron con **"Más"** › **"Contacto y opiniones"** › **"Opinión rápida"**. ¡Gracias! **Si sueles marcar tus tareas más tarde, todas juntas**, cuéntame también por ahí qué te resulta incómodo en ese momento. "Opinión rápida" no incluye tus datos de contacto, así que no puedo responderte por ahí. Si necesitas una respuesta, escríbeme al correo de abajo.
+
+Si algo no funciona bien o hay algo que te gustaría mejorar, escríbeme cuando quieras a [skadldh@gmail.com](mailto:skadldh@gmail.com). Haré todo lo posible por tener en cuenta tus comentarios y seguir mejorando la app.
+
+Gracias.
+
+---
+
 ## Aviso de actualización — 2026-11-14
 
 Hola, soy el desarrollador de la app.

@@ -4,6 +4,29 @@ title: Update Notices
 
 # Update Notices
 
+## 2026-11-18 Update Notice
+
+Hello, I'm the app developer.
+
+Based on your feedback, this update lets you rename subtasks, add notes to tasks, and choose the day your week starts on, among other things, and fixes a few problems. The changes are included in **version 1.0.104**, so please update to the latest version.
+
+## Update Details
+
+1. **In the "Timetable" menu, you can now edit subtasks created with "Split".** Tap a task (right-click it in the Windows app's weekly timetable) to open its details screen, then tap a subtask's name to edit it right there. When you're done, press Done (Enter) on the keyboard or tap **"✓"** at the top to save.
+2. **In the "Timetable" menu, you can now add notes to tasks.** Write in the **"Note"** field on the task details screen, and a note icon appears next to the task's title in the "Timetable" list.
+3. **You can now choose the first day of the week for the "Timetable" menu.** Pick a day in **"More"** › **"Appearance & Language"** › **"Week starts on"**, and calendars and weekly screens (including the Windows desktop widgets) will start on that day. It's set to **"Default"** (same as before) at first, and you set it separately on each device.
+4. **You can now jot down that day's thoughts right from your diary.** On the diary writing screen, tap **"Jot down a thought from this day"** to open that date in "Brain Dump". In weeks when you've used up your free diary entries, the same button also appears on empty days in the diary calendar.
+5. **Subtasks now expand properly in the large home screen widget (Android app).** Tap **"▾"** next to a task to expand its subtasks. We fixed a problem where they didn't show, or only some did, when tasks and subtasks together added up to more than 20.
+6. **Fixed a problem where the dots for days with completed tasks were missing on some dates, such as Sundays, in the date row at the top of the "Timetable".**
+
+This update started from the feedback you sent through **"More"** › **"Contact & Feedback"** › **"Quick Feedback"**. Thank you. **If you tend to check off tasks later, all at once**, please also let me know there what feels inconvenient when you do that. Quick Feedback doesn't include your contact details, so I can't reply to it. If you need a reply, please use the email below.
+
+If anything isn't working well or there's something you'd like to see improved, please email me anytime at [skadldh@gmail.com](mailto:skadldh@gmail.com). I'll do my best to reflect your feedback and keep improving the app.
+
+Thank you.
+
+---
+
 ## 2026-11-14 Update Notice
 
 Hello, I'm the app developer.
